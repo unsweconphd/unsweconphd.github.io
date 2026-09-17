@@ -48,6 +48,7 @@ The PhD takes 3.5 to 4 years of doctoral research. If you enter through the Mast
   - Plan ahead: discuss your plans with the PGRC so that funding can be arranged (see [funding available](/funding-and-travel/funding-available/)).
 - Keep presenting and taking part in the PhD seminar series, and attending School seminars.
 - Aim to have one full paper ready to submit by the **middle of Year 2**; it can become the first chapter of your dissertation. Your annual progress review at the end of the year requires this chapter to be ready for submission to a journal, and a preliminary draft of your second chapter.
+- If that paper is coauthored, read [using publications in your thesis](/research-resources/using-publications/) now rather than in Year 4. Whether you can use a paper as a chapter depends on your share of the work and on written permission from your coauthors, and both are easier to settle while the project is live.
 - Hold your first [annual progress review](/coursework-and-reviews/progress-reviews/) (APR) by the end of the year, within 12 months of your confirmation. Talk to your supervisors and the PGRC early about the best timing.
 
 ## Year 3
@@ -67,5 +68,5 @@ The PhD takes 3.5 to 4 years of doctoral research. If you enter through the Mast
 - Have your job market paper ready to submit by the **middle of Year 4**.
   - The academic job market for new PhDs in economics is well established and well organised, and its dates don't change much from year to year.
   - Start assembling your job market package by **October**, and discuss your job prospects with your supervisors and the PGRC.
-- If you started in Term 1, plan to submit your thesis around **September** of Year 4. UNSW requires a PhD to be completed within 4 years of full-time study. See [thesis submission and oral examination](/research-resources/thesis/) for the steps.
-- After you submit, your examiners report on your thesis and, if your PhD started in Term 1 2023 or later, you defend it at an [oral examination](/research-resources/thesis/#before-the-oral), expected about eight weeks after your thesis is sent to them. Leave time afterwards for the corrections the examiners ask for.
+- If you started in Term 1, plan to submit your thesis around **September** of Year 4. UNSW requires a PhD to be completed within 4 years of full-time study. See [thesis submission](/research-resources/thesis-submission/) for the steps.
+- After you submit, your examiners report on your thesis and, if your PhD started in Term 1 2023 or later, you defend it at an [oral examination](/research-resources/oral-examination/), expected about eight weeks after your thesis is sent to them. Leave time afterwards for the corrections the examiners ask for.

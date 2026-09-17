@@ -1,30 +1,14 @@
 ---
-title: "Thesis submission and oral examination"
+title: "Oral examination and outcomes"
 reviewed: 2026-09-18
 toc: true
 eleventyNavigation:
-  key: "Thesis submission and oral examination"
+  key: "Oral examination and outcomes"
   parent: "Research resources"
-  order: 2
-redirectFrom:
-  - /thesis-style-files.html
-  - /miscellaneous/thesis-style-files/
+  order: 4
 ---
 
-## Templates
-
-- [LaTeX thesis style files](https://moodle.telt.unsw.edu.au/pluginfile.php/5234082/mod_wiki/attachments/4253/Thesis.zip?time=1630140534953) (UNSW Moodle login required). With thanks to Barton Lee and Johannes Hoelzemann.
-- [Response to Examiners form](https://www.unsw.edu.au/content/dam/pdfs/research/higher-degree-research/hdr-response-to-examiners-template.docx) (Word), from the Graduate Research School. See also the [UNSW Higher Degree Research Hub](https://unsw.sharepoint.com/sites/unswhdr) (UNSW login required).
-
-## Submitting your thesis
-
-1. At least **two months** before you plan to submit, lodge a Notification of Intention to Submit in the Graduate Research Information System ([GRIS](https://gris.unsw.edu.au/login)).
-2. Format your thesis following the UNSW [Thesis Format Guide](https://www.unsw.edu.au/content/dam/pdfs/research/higher-degree-research/thesis-format-guide.pdf).
-3. Submit your thesis following the UNSW [HDR Examination Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrexamination.pdf).
-
-A PhD must be completed within 4 years of full-time study.
-
-Before your planned submission date, the faculty appoints your examination panel: two examiners from outside UNSW, and a panel chair from UNSW who runs the examination but does not examine you. For a doctoral thesis, at least one examiner is normally from outside Australia. You will be told their names, and from that point until the examination is over, neither you nor your supervisors may contact the examiners.
+Once you have [submitted your thesis](/research-resources/thesis-submission/), your examiners read it and report on it. Most candidates then defend it at an oral examination. The outcomes at the end of this page apply whether or not you have one.
 
 ## Does the oral examination apply to you?
 
