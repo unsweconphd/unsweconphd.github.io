@@ -42,7 +42,9 @@ The oral is not a public defence. The only people present are you, your two exam
 | About eight weeks after your thesis is sent to your examiners | Your oral examination is expected to take place. |
 | At least one week before the oral | The panel chair sends you and your primary supervisor the examiners' reports and their questions. |
 
-You therefore know the examiners' criticisms and their questions before you walk in. We recommend reading the reports with your supervisors, working out an answer to each question, and practising both the presentation and the questions. Your supervisors are responsible for making sure you are prepared.
+The oral is built around the examiners' reports, and you see them in advance. Before the examination, the panel chair asks the examiners and your supervisors to clarify the issues raised in the reports and settles with the panel how the oral will run. The ground to be covered is therefore worked out before you walk in, and the reports and questions you receive a week beforehand are what you will be asked about.
+
+Read the reports with your supervisors, work out an answer to each question, and practise both the presentation and the questions. Your supervisors are responsible for making sure you are prepared.
 
 The Graduate Research School runs a workshop, Oral examinations for HDR programs; see the [UNSW HDR Hub](https://unsw.sharepoint.com/sites/unswhdr) (UNSW login required).
 
@@ -56,7 +58,7 @@ The oral takes one to two hours, and is held in person, online or in a hybrid fo
 
 1. The panel chair introduces you to the examiners and explains how the examination will run.
 2. You give a presentation on your thesis. It must demonstrate the core content, methodology and outcome of your thesis, and its originality and significance in relation to other work in the field.
-3. The examiners ask you about their written reports and your presentation, and follow up on anything not fully addressed. They must confirm your own contribution to the thesis, including your contribution to any publications included in place of chapters, any editorial assistance and any use of AI, and check that you understand what your collaborators contributed. They also settle the nature and extent of any revisions you need to make.
+3. The examiners ask you about their written reports and your presentation. The panel chair makes sure every comment and question in the reports is covered, and the examiners follow up on anything you do not answer fully. They also settle the nature and extent of any revisions you need to make.
 4. You leave the meeting while the panel discusses your examination and drafts its report and provisional recommendation.
 5. You are invited back and told the provisional recommendation and what happens next.
 
