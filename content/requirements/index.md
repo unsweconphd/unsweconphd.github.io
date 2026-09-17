@@ -6,4 +6,4 @@ eleventyNavigation:
   order: 1
 ---
 
-See also the UNSW [Higher Degree Research Examination Procedure](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/2022-01-policies/thesisexamproc.pdf).
+UNSW's university-wide rules for confirmation, progress reviews and thesis examination are in the [Higher Degree Research Policy](https://www.unsw.edu.au/governance/policy/policy-hub/hdrpolicy), with details in the [HDR Progression Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrprogression.pdf) and the [HDR Examination Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrexamination.pdf).
