@@ -9,4 +9,4 @@ redirectFrom:
   - /miscellaneous/
 ---
 
-Guidance on writing referee reports, and the templates and rules for your thesis.
+Guidance on writing referee reports, how to use your papers in your thesis, and what submission and examination involve.
