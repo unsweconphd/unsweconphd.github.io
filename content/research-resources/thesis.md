@@ -28,9 +28,9 @@ Before your planned submission date, the faculty appoints your examination panel
 
 ## Does the oral examination apply to you?
 
-If you started your PhD in Term 1 2023 or later, you defend your thesis in an oral examination as well as the written examination.
+If you started your PhD in Term 1 2023 or later, you defend your thesis in an oral examination as well as the written examination. What counts is when you started the PhD itself: if you came through the MPDBS, your MPDBS year does not count.
 
-If you started earlier, your examination is written only. The exception is when your examiners' recommendations diverge: an oral is then held, no sooner than a week after you receive their reports.
+If your PhD started before Term 1 2023, your examination is written only. The exception is when your examiners' recommendations diverge: an oral is then held, no sooner than a week after you receive their reports.
 
 The oral is not a public defence. The only people present are you, your two examiners and the panel chair.
 
