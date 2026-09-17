@@ -17,7 +17,7 @@
       <div class="sidebar-inner">
         <a class="site-title" href="/">{{ site.title }}<span>{{ site.institution }}</span></a>
         <details class="toc" id="toc" open>
-          <summary>Contents</summary>
+          <summary>Menu</summary>
           <nav aria-label="Handbook contents">
             <ul>
               {%- for section in collections.all | eleventyNavigation %}
@@ -51,7 +51,8 @@
       <div class="content">
         {{ content | safe }}
         <footer class="site-footer">
-          {{ site.title }} · {{ site.institution }} · <a href="{{ site.repository }}/edit/main/{{ page.inputPath | replace('./', '') }}">Edit this page on GitHub</a>
+          <p class="screen-only">{{ site.title }} · {{ site.institution }} · Report an error: <a href="mailto:{{ site.contactEmail }}">{{ site.contactEmail }}</a> · <a href="{{ site.repository }}/edit/main/{{ page.inputPath | replace('./', '') }}">Edit this page on GitHub</a></p>
+          <p class="print-only">{{ site.title }} · {{ site.url }}{{ page.url }}{% if reviewed %} · Last reviewed {{ reviewed | readableDate }}{% endif %}</p>
         </footer>
       </div>
     </main>
