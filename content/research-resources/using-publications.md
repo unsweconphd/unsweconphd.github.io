@@ -47,7 +47,7 @@ You may do this only if all of the following are true of that paper.
 - You contributed **more than 50%** of the content and are the primary author. Exactly half is not enough.
 - You were responsible for planning, executing and preparing the work.
 - Nothing stops you including it — no contract, publisher agreement or data agreement.
-- You have **written permission from every coauthor**, including any coauthor who is your supervisor.
+- You have it **in writing from every coauthor**, including any coauthor who is your supervisor, both that they agree to the paper going into your thesis and that you contributed more than 50% of the work. An email is fine. Keep it.
 - Your supervisor and the PGC approve it.
 - The paper appears **word for word**, in the author-accepted version — the final draft as accepted, before the publisher's copyediting and typesetting.
 
@@ -79,7 +79,9 @@ The thesis as a whole still needs its own introduction, chapters in a logical se
 
 ## Acknowledging coauthored work
 
-Whatever the category, name your coauthors and say what each of you contributed, at the start of the chapter or in a footnote, and get their permission in writing — including your supervisor's.
+Whatever the category, name your coauthors and say what each of you contributed, at the start of the chapter or in a footnote, and get their agreement in writing — including your supervisor's.
+
+Ask each coauthor to confirm, in writing, both that they agree to the work appearing in your thesis and that you contributed more than 50% of it. An email is enough; it does not need to be a signed form. Do this while the paper is fresh in everyone's mind, and keep the replies — the contribution you declare in GRIS, and the account you give at the oral examination, rest on them.
 
 The Business School suggests wording along these lines for work that has not been published. Adapt it, fill in what each of you did, and say only what is true of your paper:
 
