@@ -1,6 +1,6 @@
 ---
 title: "Key dates"
-reviewed: 2026-09-17
+reviewed: 2026-09-18
 toc: true
 eleventyNavigation:
   key: "Key dates"
@@ -18,6 +18,7 @@ These dates assume you started in Term 1. If you started at another time, count 
 | January–February | Send the PGRC your conference pre-approval email | [Request conference funding](/funding-and-travel/conference-funding/) |
 | Mid-February | The PGRC announces the expected conference funding per student | [Funding available](/funding-and-travel/funding-available/) |
 | Mid to late February | PhD International Visiting Program outcomes announced | [Funding available](/funding-and-travel/funding-available/) |
+| Final third of the year | More funding may be released, depending on the School's remaining budget | [Funding available](/funding-and-travel/funding-available/) |
 
 ## MPDBS year
 
