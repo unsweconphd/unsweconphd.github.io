@@ -185,7 +185,7 @@ redirectFrom:
 | `reviewed` | Date someone last checked the page is correct, shown under the title. |
 | `toc` | `true` adds an "On this page" list of the page's `##` headings. Use it on long pages. |
 | `eleventyNavigation.key` | The page's label in the menu. Must be unique. |
-| `eleventyNavigation.parent` | The `key` of the page's section, exactly: `Getting started`, `Coursework and reviews`, `Seminars`, `Funding and travel` or `Research resources`. Section pages have no parent. |
+| `eleventyNavigation.parent` | The `key` of the page's section, exactly: `Getting started`, `Coursework and reviews`, `Seminars`, `Funding and travel`, `Research resources` or `Thesis`. Section pages have no parent. |
 | `eleventyNavigation.order` | Position within the section. |
 | `redirectFrom` | Old addresses that should forward to this page. |
 | `layout` | Only for special pages: `section.njk` for a section's `index.md`, `home.njk` for the home page. |

@@ -3,12 +3,14 @@ title: "Oral examination and outcomes"
 reviewed: 2026-09-18
 toc: true
 eleventyNavigation:
-  key: "Oral examination and outcomes"
-  parent: "Research resources"
-  order: 4
+  key: "Oral examination"
+  parent: "Thesis"
+  order: 3
+redirectFrom:
+  - /research-resources/oral-examination/
 ---
 
-Once you have [submitted your thesis](/research-resources/thesis-submission/), your examiners read it and report on it. Most candidates then defend it at an oral examination. The outcomes at the end of this page apply whether or not you have one.
+Once you have [submitted your thesis](/thesis/submission/), your examiners read it and report on it. Most candidates then defend it at an oral examination. The outcomes at the end of this page apply whether or not you have one.
 
 ## Does the oral examination apply to you?
 

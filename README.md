@@ -41,6 +41,7 @@ content/                      Everything readers see
 ├── seminars/                 schedule.md holds the term timetables
 ├── funding-and-travel/
 ├── research-resources/
+├── thesis/                   publications, submission, oral examination
 ├── files/                    PDFs, linked from pages as /files/name.pdf
 ├── redirects.njk             Forwards old addresses to where pages are now
 └── 404.njk                   "Page not found"
@@ -83,8 +84,8 @@ Page text in Markdown.
   on long pages.
 - `key` is the page's label in the menu, `parent` is the `key` of its section
   (`Getting started`, `Coursework and reviews`, `Seminars`,
-  `Funding and travel` or `Research resources`), and `order` is its position
-  within the section.
+  `Funding and travel`, `Research resources` or `Thesis`), and `order` is its
+  position within the section.
 - The page appears at `/funding-and-travel/conference-grants/`, in the sidebar,
   on the home page and on the section page.
 - Link to it from other pages as `[conference grants](/funding-and-travel/conference-grants/)`.

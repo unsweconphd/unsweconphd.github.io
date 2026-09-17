@@ -3,9 +3,11 @@ title: "Using publications in your thesis"
 reviewed: 2026-09-18
 toc: true
 eleventyNavigation:
-  key: "Using publications in your thesis"
-  parent: "Research resources"
-  order: 2
+  key: "Using publications"
+  parent: "Thesis"
+  order: 1
+redirectFrom:
+  - /research-resources/using-publications/
 ---
 
 Most economics theses are three papers, and most of those papers are coauthored and circulating as working papers long before a journal takes them. UNSW has rules about putting that work in your thesis. They turn on **how you use a paper**, not on whether it has been accepted anywhere, and the two that catch people out — your share of the work, and written permission from your coauthors — are far easier to settle when you start a project than in your last month.
@@ -101,7 +103,7 @@ work in my thesis.
 
 If a paper was presented at a conference that publishes no proceedings, give the conference and the date. If those sentences do not describe your paper, do not use them — ask the PGC what the chapter should say instead.
 
-Changes a publisher's editors made to a chapter you have published count as editorial assistance, and must be disclosed in your acknowledgements along with any use of AI. See [thesis submission](/research-resources/thesis-submission/).
+Changes a publisher's editors made to a chapter you have published count as editorial assistance, and must be disclosed in your acknowledgements along with any use of AI. See [thesis submission](/thesis/submission/).
 
 ## What you declare at submission
 
