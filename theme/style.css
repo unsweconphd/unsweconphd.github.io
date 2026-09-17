@@ -1,0 +1,353 @@
+/* Econ PhD Handbook: a sidebar of contents, serif text, quiet sans-serif headings. */
+
+:root {
+  --text: #1c1c1a;
+  --muted: #5f5e5a;
+  --faint: #8c8b85;
+  --background: #ffffff;
+  --sidebar: #f7f7f4;
+  --rule: #e4e3de;
+  --link: #1d4f91;
+  --accent: #d9b300; /* UNSW yellow, deep enough to show on white */
+
+  --serif: "Source Serif 4", Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  --sidebar-width: 17rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #e8e6e1;
+    --muted: #a9a79f;
+    --faint: #7c7a74;
+    --background: #161615;
+    --sidebar: #1e1e1c;
+    --rule: #33332f;
+    --link: #8fb6ec;
+    --accent: #e6c200;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+a {
+  color: var(--link);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+.skip-link {
+  position: absolute;
+  left: -100vw;
+}
+
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 1;
+  padding: 0.5rem 1rem;
+  background: var(--background);
+}
+
+/* Layout: fixed-width sidebar, content column beside it. */
+
+.layout {
+  display: grid;
+  grid-template-columns: var(--sidebar-width) minmax(0, 1fr);
+  min-height: 100vh;
+}
+
+.sidebar {
+  background: var(--sidebar);
+  border-right: 1px solid var(--rule);
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
+.sidebar-inner {
+  position: sticky;
+  top: 0;
+  max-height: 100vh;
+  overflow-y: auto;
+  padding: 1.75rem 1.25rem 2rem;
+}
+
+.site-title {
+  display: block;
+  color: var(--text);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.site-title span {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--muted);
+  font-size: 0.8125rem;
+  font-weight: 400;
+}
+
+.toc summary {
+  display: none;
+}
+
+.toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc nav > ul {
+  margin-top: 1.75rem;
+}
+
+.toc nav > ul > li {
+  margin-bottom: 1.1rem;
+}
+
+.toc a {
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.toc a:hover {
+  color: var(--text);
+}
+
+.toc nav > ul > li > a {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.toc li li a {
+  display: block;
+  margin-top: 0.1rem;
+  padding: 0.2rem 0 0.2rem 0.75rem;
+  border-left: 2px solid transparent;
+}
+
+.toc a[aria-current="page"] {
+  color: var(--text);
+}
+
+.toc li li a[aria-current="page"] {
+  border-left-color: var(--accent);
+}
+
+.toc nav > ul > li > a[aria-current="page"] {
+  box-shadow: inset 0 -2px var(--accent);
+}
+
+main {
+  padding: 3rem clamp(1.25rem, 5vw, 4.5rem) 3rem;
+}
+
+.content {
+  max-width: 42rem;
+}
+
+/* Text */
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--sans);
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  margin: 0 0 1.75rem;
+  font-size: 2rem;
+}
+
+h2 {
+  margin: 2.75rem 0 0.75rem;
+  font-size: 1.3rem;
+}
+
+h3 {
+  margin: 2rem 0 0.5rem;
+  font-size: 1.05rem;
+}
+
+h4 {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1rem;
+}
+
+h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+ul,
+ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.4rem;
+}
+
+li {
+  margin: 0.3rem 0;
+}
+
+li > ul,
+li > ol {
+  margin: 0.3rem 0 0.5rem;
+}
+
+li::marker {
+  color: var(--faint);
+}
+
+strong {
+  font-weight: 600;
+}
+
+.eyebrow {
+  margin: 0 0 0.4rem;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+}
+
+.eyebrow a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.eyebrow a:hover {
+  text-decoration: underline;
+}
+
+.lede {
+  margin: -1rem 0 2rem;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.9375rem;
+}
+
+.page-list {
+  padding-left: 1.1rem;
+}
+
+table {
+  width: 100%;
+  margin: 0.5rem 0 2rem;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+}
+
+th,
+td {
+  padding: 0.45rem 0.75rem 0.45rem 0;
+  border-bottom: 1px solid var(--rule);
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  border-bottom-color: var(--faint);
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  font-weight: 600;
+}
+
+.site-footer {
+  margin-top: 4rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+}
+
+.site-footer a {
+  color: inherit;
+}
+
+/* Phones and narrow windows: the sidebar becomes a header with a folding menu. */
+
+@media (max-width: 56rem) {
+  .layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .sidebar {
+    border-right: 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .sidebar-inner {
+    position: static;
+    max-height: none;
+    padding: 1rem 1.25rem;
+  }
+
+  .toc summary {
+    display: list-item;
+    margin-top: 0.75rem;
+    color: var(--text);
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .toc nav > ul {
+    margin-top: 1rem;
+  }
+
+  main {
+    padding-top: 2rem;
+  }
+
+  h1 {
+    font-size: 1.65rem;
+  }
+}
+
+@media print {
+  .sidebar,
+  .site-footer {
+    display: none;
+  }
+
+  .layout {
+    display: block;
+  }
+}

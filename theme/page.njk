@@ -1,0 +1,10 @@
+---
+layout: base.njk
+---
+{%- if eleventyNavigation and eleventyNavigation.parent %}
+<p class="eyebrow">
+  {%- for crumb in collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key) %}<a href="{{ crumb.url }}">{{ crumb.title }}</a>{% endfor -%}
+</p>
+{%- endif %}
+<h1>{{ title }}</h1>
+{{ content | safe }}

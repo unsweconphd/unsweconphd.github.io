@@ -1,0 +1,11 @@
+---
+layout: base.njk
+---
+{#- A section page lists the pages under it in the menu, then shows anything written in its index.md. #}
+<h1>{{ title }}</h1>
+<ul class="page-list">
+  {%- for entry in collections.all | eleventyNavigation(eleventyNavigation.key) %}
+  <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+  {%- endfor %}
+</ul>
+{{ content | safe }}

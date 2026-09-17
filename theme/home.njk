@@ -1,0 +1,15 @@
+---
+layout: base.njk
+---
+{#- The home page is a table of contents, built from the menu so it never goes stale. #}
+<h1>{{ site.title }}</h1>
+<p class="lede">{{ site.institution }} · Updated {{ updated | readableDate }}</p>
+{{ content | safe }}
+{%- for section in collections.all | eleventyNavigation %}
+<h2><a href="{{ section.url }}">{{ section.title }}</a></h2>
+<ul class="page-list">
+  {%- for entry in section.children %}
+  <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+  {%- endfor %}
+</ul>
+{%- endfor %}

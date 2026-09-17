@@ -1,0 +1,15 @@
+---
+title: "Page not found"
+permalink: /404.html
+eleventyExcludeFromCollections: true
+---
+<script>
+  // The handbook used to live at econphdhandbook.weebly.com, with addresses like
+  // /confirmation-review.html. Send those to the page's new address.
+  (function () {
+    var redirects = {{ collections.all | legacyRedirects | dump | safe }};
+    var old = window.location.pathname.match(/^\/([\w-]+)\.html$/);
+    if (old && redirects[old[1]]) window.location.replace(redirects[old[1]]);
+  })();
+</script>
+<p>There is no page at this address. The handbook moved here from Weebly, so an old link may be out of date. Use the menu, or start from the <a href="/">home page</a>.</p>
