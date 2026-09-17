@@ -43,7 +43,7 @@ Neither category is the better one. The only question is whether a chapter is th
 
 You may do this only if all of the following are true of that paper.
 
-- The research was done during **this** PhD. Work from an earlier degree does not count.
+- The research was done during **this** PhD. Work from an earlier degree does not count; if you started the paper during your MPDBS year, check with the PGC before you rely on it.
 - You contributed **more than 50%** of the content and are the primary author. Exactly half is not enough.
 - You were responsible for planning, executing and preparing the work.
 - Nothing stops you including it — no contract, publisher agreement or data agreement.
