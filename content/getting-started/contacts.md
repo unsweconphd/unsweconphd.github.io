@@ -42,10 +42,13 @@ Talk to the PGRC, who acts as a confidential adviser for research candidates and
 | LIC | Lecturer in Charge of a course. |
 | MPDBS | Master of Pre-Doctoral Business Studies, the one-year program some students complete before the PhD. |
 | Notification of Intention to Submit | The GRIS form you lodge at least two months before you submit your thesis. |
+| Oral examination | The examination at which you defend your thesis before your examiners, required if you started your PhD in Term 1 2023 or later. |
+| Panel chair | The UNSW academic who runs your thesis examination. The panel chair is not one of your examiners. |
 | PGRC | Postgraduate Research Coordinator, the academic who coordinates the School's PhD program. UNSW policy calls the role Postgraduate Coordinator (PGC). |
 | PLO | Program Learning Outcomes. |
 | Pre-Trip Approval | The approval every UNSW trip needs, lodged through MyTravel@UNSW. |
 | RA | Research assistant. |
+| Response to Examiners form | The form on which you answer the examiners' reports and record the corrections you have made. |
 | Show cause | A formal request to explain why your enrolment should continue, for example after an unsuccessful review. |
 | SOE | School of Economics. |
 | Variation of candidature | A formal change to your candidature, such as working away from UNSW, lodged in GRIS. |
