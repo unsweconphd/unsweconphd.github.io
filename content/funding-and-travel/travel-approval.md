@@ -45,7 +45,7 @@ For the travel budget, use these project codes:
 
 ## Booking rules
 
-- The SOE only supports the pre-approved amount. If your expenses go above it, you'll be asked to pay back the difference. You may want to check whether your supervisors can provide additional support.
+- The SOE only supports the pre-approved amount. If your expenses go above it, you will be asked to pay back the difference. Ask your supervisors whether they can cover more.
 - Book flights and accommodation through FCM.
 - If the SOE office agrees in advance that part of a trip can be booked elsewhere, still lodge a Pre-Trip Approval for the whole trip, so that it is covered by UNSW travel insurance. Travel booked outside FCM must be declared.
 - Destinations rated high risk need approval before you book.

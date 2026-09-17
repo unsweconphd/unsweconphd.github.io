@@ -21,7 +21,7 @@ The School of Economics (SOE) funds:
 - journal submission fees;
 - editing services.
 
-The amount of support depends on the overall financial situation of the SOE and UNSW. Around mid-February, the Postgraduate Research Coordinator (PGRC) announces the expected amount per student. If you plan to go to a conference in Term 1, talk to the PGRC early so that funding can be made available in time.
+How much is available depends on the School's budget and UNSW's. Around mid-February, the Postgraduate Research Coordinator (PGRC) announces the expected amount per student. If you plan to go to a conference in Term 1, talk to the PGRC early so that funding can be made available in time.
 
 In the final third of the year, more funding may be released, depending on how much of the School's budget is left. You can use it even if you have already spent your allocation for the year. If you have compelling reasons to go over your allocation, discuss them with the PGRC.
 

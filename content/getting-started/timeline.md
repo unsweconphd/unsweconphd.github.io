@@ -48,7 +48,7 @@ The PhD takes 3.5 to 4 years of doctoral research. If you enter through the Mast
   - Plan ahead: discuss your plans with the PGRC so that funding can be arranged (see [funding available](/funding-and-travel/funding-available/)).
 - Keep presenting and taking part in the PhD seminar series, and attending School seminars.
 - Aim to have one full paper ready to submit by the **middle of Year 2**; it can become the first chapter of your dissertation. Your annual progress review at the end of the year requires this chapter to be ready for submission to a journal, and a preliminary draft of your second chapter.
-- If that paper is coauthored, read [using publications in your thesis](/thesis/using-publications/) now rather than in Year 4. Whether you can use a paper as a chapter depends on your share of the work and on written permission from your coauthors, and both are easier to settle while the project is live.
+- If that paper is coauthored, read [using publications in your thesis](/thesis/using-publications/) now, not in Year 4. Whether you can use it as a chapter depends on your share of the work and on written confirmation from your coauthors. Both are easier to get now.
 - Hold your first [annual progress review](/coursework-and-reviews/progress-reviews/) (APR) by the end of the year, within 12 months of your confirmation. Talk to your supervisors and the PGRC early about the best timing.
 
 ## Year 3
@@ -58,7 +58,7 @@ The PhD takes 3.5 to 4 years of doctoral research. If you enter through the Mast
   - You are getting closer to your job market, so presenting at conferences is not just an intellectual pursuit but also a networking opportunity.
 - Keep presenting in the PhD seminar series and attending School seminars, and take these opportunities more seriously as your job market approaches.
 - Aim to have a second paper ready to submit by the **middle of Year 3**; it can become the second chapter of your dissertation. Your APR at the end of the year requires this chapter to be ready for submission to a journal.
-- Draft the third chapter of your dissertation by the end of the year. This work is the basis of your APR and, crucially, should also be the basis of your job market paper.
+- Draft the third chapter of your dissertation by the end of the year. This work is the basis of your APR, and should also be the basis of your job market paper.
 - Hold your second APR by the end of the year. If you submit your thesis within 12 months of it, it will be your last APR, so use it to get meaningful feedback from your panel.
 
 ## Year 4

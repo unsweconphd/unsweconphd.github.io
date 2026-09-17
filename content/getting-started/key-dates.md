@@ -50,9 +50,9 @@ These dates assume you started in Term 1. If you started at another time, count 
 | Middle of Year 4 | Job market paper ready to submit | [Candidature timeline](/getting-started/timeline/) |
 | At least two months before you submit | Lodge a Notification of Intention to Submit in GRIS | [Thesis submission](/thesis/submission/) |
 | Around September | Submit your thesis. A PhD must be completed within 4 years of full-time study | [Thesis submission](/thesis/submission/) |
+| October | Start assembling your job market package | [Candidature timeline](/getting-started/timeline/) |
 | At least one week before your oral examination | You and your primary supervisor receive the examiners' reports and questions | [Before the oral](/thesis/oral-examination/#before-the-oral) |
 | About eight weeks after your thesis is sent to your examiners | Oral examination, if your PhD started in Term 1 2023 or later | [At the oral](/thesis/oral-examination/#at-the-oral) |
-| October | Start assembling your job market package | [Candidature timeline](/getting-started/timeline/) |
 
 ## Before a review
 

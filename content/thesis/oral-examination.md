@@ -10,13 +10,13 @@ redirectFrom:
   - /research-resources/oral-examination/
 ---
 
-Once you have [submitted your thesis](/thesis/submission/), your examiners read it and report on it. Most candidates then defend it at an oral examination. The outcomes at the end of this page apply whether or not you have one.
+After you [submit](/thesis/submission/), your examiners read the thesis and report on it. Most candidates then defend it at an oral examination. The outcomes at the end of this page apply whether or not you have one.
 
 ## Does the oral examination apply to you?
 
 If you started your PhD in Term 1 2023 or later, you defend your thesis in an oral examination as well as the written examination. What counts is when you started the PhD itself: if you came through the MPDBS, your MPDBS year does not count.
 
-If your PhD started before Term 1 2023, your examination is written only. The exception is when your examiners' recommendations diverge: an oral is then held, no sooner than a week after you receive their reports.
+If your PhD started before Term 1 2023, your examination is written only, unless your examiners disagree about the outcome. An oral is then held, no sooner than a week after you receive their reports.
 
 The oral is not a public defence. The only people present are you, your two examiners and the panel chair.
 
@@ -28,7 +28,7 @@ The oral is not a public defence. The only people present are you, your two exam
 | About eight weeks after your thesis is sent to your examiners | Your oral examination is expected to take place. |
 | At least one week before the oral | The panel chair sends you and your primary supervisor the examiners' reports and their questions. |
 
-The oral is built around the examiners' reports, and you see them in advance. Before the examination, the panel chair asks the examiners and your supervisors to clarify the issues raised in the reports and settles with the panel how the oral will run. The ground to be covered is therefore worked out before you walk in, and the reports and questions you receive a week beforehand are what you will be asked about.
+The examiners' reports set what is discussed, and you see them first. Before the examination the panel chair asks the examiners and your supervisors to clarify the issues the reports raise, and agrees with the panel how the oral will run. So what you will be asked is settled in advance, and you have it a week ahead.
 
 Read the reports with your supervisors, work out an answer to each question, and practise both the presentation and the questions. Your supervisors are responsible for making sure you are prepared.
 
@@ -40,15 +40,15 @@ In exceptional cases, examiners may judge that proceeding to the oral is not in 
 
 ## At the oral
 
-The oral takes one to two hours, and is held in person, online or in a hybrid format. If a serious technical problem occurs, the examination is stopped and rescheduled so that you are not disadvantaged.
+The oral takes one to two hours, in person, online or both. If the technology fails badly, the examination is stopped and rescheduled rather than run at your expense.
 
 1. The panel chair introduces you to the examiners and explains how the examination will run.
-2. You give a presentation on your thesis. It must demonstrate the core content, methodology and outcome of your thesis, and its originality and significance in relation to other work in the field.
+2. You present your thesis: what it does, how, and what it finds, and why it is original and significant next to other work in the field.
 3. The examiners ask you about their written reports and your presentation. The panel chair makes sure every comment and question in the reports is covered, and the examiners follow up on anything you do not answer fully. They also settle the nature and extent of any revisions you need to make.
 4. You leave the meeting while the panel discusses your examination and drafts its report and provisional recommendation.
 5. You are invited back and told the provisional recommendation and what happens next.
 
-The examiners assess whether you show detailed knowledge of the research, show its originality and its contribution to the field, defend your methodology and conclusions, are aware of the limitations of your work, and answer their questions well.
+The examiners assess whether you know the research in detail, can say what is original about it and what it contributes, can defend your methods and conclusions, know its limitations, and answer their questions well.
 
 ## Outcomes
 

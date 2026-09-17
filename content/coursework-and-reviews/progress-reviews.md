@@ -13,13 +13,13 @@ redirectFrom:
 
 After your confirmation review, you have an annual progress review (APR) every year. Each APR must be held within 12 months of your previous review, whether that was your confirmation review or an earlier APR. UNSW's policy calls these reviews Research Progress Reviews.
 
-You may hold your APR before the 12 months are up, and that can be a good idea: for example, you may want to give your talk while a prominent academic whose feedback you would value is visiting. Unlike the confirmation review, your APR presentation is given at one of the School's internal seminar series.
+You can hold it earlier than that, and sometimes should: for example, to give your talk while a visitor whose feedback you want is in the School. Unlike the confirmation review, your APR presentation is given at one of the School's internal seminar series.
 
 ## Before the review
 
 1. At least **two months** before your preferred date, talk to your supervisors and the Postgraduate Research Coordinator (PGRC) about the best timing. Pick tentative dates that your supervisors and panel members can attend.
 2. Contact the School of Economics (SOE) seminar coordinator to book a slot for your presentation. The seminar schedule is usually busy, so plan ahead.
-3. If your supervisors think the panel should change (for example, because of a new staff member or a change in your research topic), talk to the academics you would like on the panel, check their availability and, more importantly, ask for feedback on your work. The PGRC must approve any change.
+3. If your supervisors think the panel should change (for example, because of a new staff member or a change in your research topic), talk to the academics you would like on the panel, check their availability, and ask them for feedback on your work. The PGRC must approve any change.
 4. Once the date is fixed, tell the PGRC at least **one month** in advance, so that the SOE office has time to organise the review. Give the date and time, your title and abstract, and a draft of your paper if one is available.
 5. Complete the review form in the Graduate Research Information System ([GRIS](https://gris.unsw.edu.au/login)) and send the documents listed below.
 
@@ -66,7 +66,7 @@ Two presentations over the academic year, discussant duty, and at least 80% atte
 - You must have met all the milestones set at your previous reviews.
 - By the end of your second year, you must have the first chapter of your dissertation ready for submission to an academic journal, and a draft of your second chapter.
 - By the end of your third year, you must have your second chapter ready for submission to a journal, and a draft of your third chapter.
-- We recommend starting to think about both the job market and your thesis submission early in your fourth year.
+- We recommend starting work on the job market and on your thesis submission early in your fourth year.
 
 ### Presentations outside the School
 
@@ -79,6 +79,6 @@ Any required inductions and training.
 
 ## Teaching
 
-If you are tutoring or lecturing, at UNSW or at another institution, you must report it at your APR. Depending on your circumstances, the panel may advise on changing your teaching load.
+If you are tutoring or lecturing, at UNSW or at another institution, you must report it at your APR. The panel may advise you to change your teaching load.
 
 For the full rules, see the UNSW [Higher Degree Research Policy](https://www.unsw.edu.au/governance/policy/policy-hub/hdrpolicy) and its [HDR Progression Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrprogression.pdf).

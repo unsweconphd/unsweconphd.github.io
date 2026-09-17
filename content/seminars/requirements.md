@@ -32,7 +32,7 @@ Dates are allocated by the PGRC in coordination with the PhD student representat
 3. **Two days before**, circulate your title, draft paper and slides to all PhD students and the PGRC. If your material is in the shared OneDrive folder, you can share it by email. In Outlook, the mailing list is #BUS School of Economics Research Students.
 4. **On the day**, present for 40 minutes, then leave 10–15 minutes for a discussion led by your discussant. Expect clarification questions from the audience as you go.
 
-We encourage you to talk to your discussant before your seminar and exchange ideas. It will help you make the most of their feedback, and can help you give a better presentation.
+Talk to your discussant before your seminar. You will get more out of their feedback, and usually give a better talk.
 
 - Invite at least one academic staff member. In your first year, invite one of your supervisors; from your second year, invite at least one academic who is not your supervisor. You may also invite people from other universities.
 - You must present your own work. In your first year, you may present preliminary results or replication results.
@@ -44,7 +44,7 @@ Year 4 students present their job market paper twice, in Term 1 and Term 2, to p
 
 ## Being a discussant
 
-- Your role is not just to summarise the presentation, but to offer meaningful feedback.
+- Your job is to give feedback, not to summarise the talk.
 - Prepare a set of slides with a summary of the talk (one page at most), and constructive criticism and questions about the motivation and the results or their interpretation.
 - At the presenter's second talk, keep track of the comments from the first, and comment on whether they have been addressed.
 

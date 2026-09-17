@@ -77,6 +77,6 @@ UNSW's research integrity and research data management training, and any require
 
 ## Teaching
 
-If you are tutoring or lecturing, at UNSW or at another institution, you must report it at your confirmation review. Depending on your circumstances, the panel may advise on changing your teaching load.
+If you are tutoring or lecturing, at UNSW or at another institution, you must report it at your confirmation review. The panel may advise you to change your teaching load.
 
 For the full rules, see the UNSW [Higher Degree Research Policy](https://www.unsw.edu.au/governance/policy/policy-hub/hdrpolicy) and its [HDR Progression Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrprogression.pdf).
