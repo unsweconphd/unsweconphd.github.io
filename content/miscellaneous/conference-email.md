@@ -6,13 +6,13 @@ eleventyNavigation:
   order: 3
 ---
 
-***Note: This is a sample email sent to PGRC every February and January to get conference funding approval.***
+***Note: This is a sample email to send to the Postgraduate Research Coordinator (PGRC) each year in January–February to get conference funding approval. See the [Funding Overview](/funding/funding-overview/) for the full procedure.***
 
 **Subject:** Conference Support Pre-Approval, Your Name, zID
 
 **Main body:**
 
-## Names of conferences you are applying (including the ones you do not require funding from school)
+## Names of conferences you are applying to (including the ones you do not require funding from the School for)
 
 ### Conference 1
 
@@ -26,7 +26,7 @@ eleventyNavigation:
   - Airfare:
   - Accommodation:
   - Registration Fee:
-- Other funding sources (scientia, PRSS etc) & how much are you willing to personally contribute for this
+- Other funding sources (e.g. DRTG, Scientia, supervisor grants) and how much you are willing to contribute personally
 
 ### Conference 2
 
@@ -40,9 +40,9 @@ eleventyNavigation:
   - Airfare:
   - Accommodation:
   - Registration Fee:
-- Other funding sources (scientia, PRSS etc) & how much are you willing to personally contribute for this
+- Other funding sources (e.g. DRTG, Scientia, supervisor grants) and how much you are willing to contribute personally
 
-## Names of past conferences you have presented
+## Names of past conferences you have presented at
 
 - Name of Conference 1
   - Month/Year
@@ -57,7 +57,7 @@ eleventyNavigation:
   - Total $ support you received from the school
   - Total $ of personal contribution
 
-## Name of past conferences you did not get in
+## Names of past conferences you did not get into
 
 - Name of Conference 1
   - Month/Year

@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 2
 ---
 
+This page is for students who enter through the Master of Pre-Doctoral Business Studies (MPDBS), a one-year program before the PhD.
+
 ## MPDBS Year
 
 - Term 1
@@ -15,7 +17,7 @@ eleventyNavigation:
 - Term 2
   - ECON7002 Macroeconomic Theory I
   - COMM8102 Econometric Analysis
-  - RA Work (25 hours x 2 academics)
+  - Research assistant (RA) work: 25 hours for each of two academics
 - Term 3
   - ECON7101 Microeconomic Theory II
   - ECON7102 Macroeconomic Theory II
@@ -25,38 +27,32 @@ eleventyNavigation:
 
 - Enrolment in the MPDBS courses is handled by the Business School Research Office.
 - The coursework for the MPDBS program is **compulsory**, unless some exceptional circumstances apply.
-- **Average grade 85 required to advance to PhD program (minimum 75 marks per course).**
-  - This requirement is important. Failure to meet it means you would not move to the PhD program.
-  - **Talk to the PGRC** as soon as you think you may have trouble meeting it.
-    - For example, alert the PRGC if in any course you obtain anything below 85 marks.
+- **An average grade of at least 85 is required to advance to the PhD program (minimum 75 marks per course).**
+  - This requirement is important. If you don't meet it, you may not be able to move to the PhD program.
+  - **Talk to the Postgraduate Research Coordinator (PGRC)** as soon as you think you may have trouble meeting it.
+    - For example, alert the PGRC if you obtain anything below 85 marks in any course.
 
 ## PhD Program
 
-- ECON5000 Research Economics Thesis Full Time
-  - Self enrolled via [myUNSW website](https://my.unsw.edu.au).
-  - You **must be enrolled** in this course every term during the duration of your PhD studies.
+- ECON5000 Research Economics Full-Time (ECON5001 Research Economics Part-Time if you study part-time)
+  - Enrol yourself via the [myUNSW website](https://my.unsw.edu.au).
+  - You **must be enrolled** in this course every term, including Summer Term, for the duration of your PhD studies.
 
-The standard coursework load following your MPDBS year is between **6 and 8 courses**. Which courses you take, and when, is something you **must discuss** with your **supervisors** and the **PGRC**. In general, you should take courses during the first two years of your program, and leave last two years to doing research. In addition to the courses offered by the SOE, you may benefit from courses from other disciplines (Finance, Mathematics and Statistics, Computer Science).
+The standard coursework load following your MPDBS year is between **6 and 8 courses**. Which courses you take, and when, is something you **must discuss** with your **supervisors** and the **PGRC**. In general, you should take courses during the first two years of your program, and leave the last two years for research. In addition to the courses offered by the School of Economics (SOE), you may benefit from courses from other disciplines (Finance, Mathematics and Statistics, Computer Science).
 
-Course offerings for the current year can be found in the [UNSW Class Timetable](https://timetable.unsw.edu.au/2023/subjectSearch.html) website.
+Course offerings for the current year can be found in the [UNSW Class Timetable](https://timetable.unsw.edu.au/current/ECONKENS.html).
 
-- Economics courses generally offered include
-  - ECON7204 Macroeconometrics
-  - ECON7205 Microeconometrics
-  - ECON7201 Advanced Econometric Theory and Methods
-  - ECON7202 Policy Evaluation Methods
-  - ECON7350 Special Topics in Microeconomics
-  - ECON7301 Industrial Organisation
-  - ECON7302 International Economics
-  - ECON7303 Labour Economics
-  - ECON7307 Health Economics
-  - ECON7309 Economic Measurement
-  - ECON7310 Experimental Economics
-  - ECON7350 Special Topics in Microeconomics
+- Economics electives offered in 2026
+  - ECON7202 Empirical Methods for Causal Inference (Term 1)
+  - ECON7204 Macroeconometrics (Term 2)
+  - ECON7205 Microeconometrics (Term 2)
+  - ECON7301 Industrial Organisation (Term 3)
+  - ECON7309 Economic Measurement (Term 3)
+- Check the current timetable for other years.
 
 ### Notes
 
-- If you want to take a course offered not on the list, talk to your supervisors first, and then contact the PGRC.
-- Enrolment to all courses in the PhD years is handled by the SOE.
+- If you want to take a course that is not on the list, talk to your supervisors first, and then contact the PGRC.
+- Enrolment in your coursework in the PhD years is handled by the SOE.
   - Once you have discussed with your supervisors, contact the SOE office and/or the PGRC.
-- **Average grade of 75 required to continue in the PhD program.**
+- **An average grade of at least 75 is required to continue in the PhD program.**
