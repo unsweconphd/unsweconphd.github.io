@@ -3,17 +3,20 @@
 :root {
   --text: #1c1c1a;
   --muted: #5f5e5a;
-  --faint: #8c8b85;
+  --faint: #8c8b85; /* 3.4:1 on white: list bullets and rules only, never text */
   --background: #ffffff;
   --sidebar: #f7f7f4;
   --rule: #e4e3de;
   --link: #1d4f91;
-  --accent: #d9b300; /* UNSW yellow, deep enough to show on white */
+  --accent: #8a6a00; /* UNSW gold, deep enough to reach 4.7:1 on the sidebar */
 
   --serif: "Source Serif 4", Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
   --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
 
   --sidebar-width: 17rem;
+
+  color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -58,6 +61,13 @@ a:hover {
   text-decoration-thickness: 2px;
 }
 
+a:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
 .skip-link {
   position: absolute;
   left: -100vw;
@@ -69,6 +79,10 @@ a:hover {
   z-index: 1;
   padding: 0.5rem 1rem;
   background: var(--background);
+}
+
+.print-only {
+  display: none;
 }
 
 /* Layout: fixed-width sidebar, content column beside it. */
@@ -137,6 +151,7 @@ a:hover {
 
 .toc a:hover {
   color: var(--text);
+  text-decoration: underline;
 }
 
 .toc nav > ul > li > a {
@@ -148,11 +163,12 @@ a:hover {
   display: block;
   margin-top: 0.1rem;
   padding: 0.2rem 0 0.2rem 0.75rem;
-  border-left: 2px solid transparent;
+  border-left: 3px solid transparent;
 }
 
 .toc a[aria-current="page"] {
   color: var(--text);
+  font-weight: 600;
 }
 
 .toc li li a[aria-current="page"] {
@@ -181,6 +197,7 @@ h4 {
   font-weight: 600;
   line-height: 1.25;
   letter-spacing: -0.01em;
+  text-wrap: balance;
 }
 
 h1 {
@@ -235,8 +252,31 @@ li::marker {
   color: var(--faint);
 }
 
+ol > li::marker {
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.9em;
+}
+
 strong {
   font-weight: 600;
+}
+
+code,
+pre {
+  font-family: var(--mono);
+  font-size: 0.875rem;
+}
+
+pre {
+  margin: 0 0 1.25rem;
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+  background: var(--sidebar);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  line-height: 1.55;
+  white-space: pre-wrap; /* templates are meant to be read and copied, so wrap long lines */
 }
 
 .eyebrow {
@@ -248,11 +288,13 @@ strong {
 
 .eyebrow a {
   color: inherit;
-  text-decoration: none;
 }
 
-.eyebrow a:hover {
-  text-decoration: underline;
+.reviewed {
+  margin: -1.25rem 0 1.75rem;
+  color: var(--muted);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
 }
 
 .lede {
@@ -262,20 +304,54 @@ strong {
   font-size: 0.9375rem;
 }
 
+.on-this-page {
+  margin: 0 0 2.25rem;
+  padding: 0.9rem 1.15rem;
+  background: var(--sidebar);
+  border-radius: 4px;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
+.on-this-page p {
+  margin: 0 0 0.35rem;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.on-this-page ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.on-this-page li {
+  margin: 0.2rem 0;
+}
+
 .page-list {
   padding-left: 1.1rem;
 }
 
+/* Tables: sans-serif with aligned figures; wide ones scroll inside their own box. */
+
+.table-scroll {
+  margin: 0.5rem 0 2rem;
+  overflow-x: auto;
+}
+
 table {
   width: 100%;
-  margin: 0.5rem 0 2rem;
   border-collapse: collapse;
-  font-size: 0.9375rem;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.45;
 }
 
 th,
 td {
-  padding: 0.45rem 0.75rem 0.45rem 0;
+  padding: 0.5rem 0.75rem 0.5rem 0;
   border-bottom: 1px solid var(--rule);
   text-align: left;
   vertical-align: top;
@@ -284,7 +360,6 @@ td {
 th {
   border-bottom-color: var(--faint);
   color: var(--muted);
-  font-family: var(--sans);
   font-size: 0.8125rem;
   font-weight: 600;
 }
@@ -296,6 +371,10 @@ th {
   color: var(--muted);
   font-family: var(--sans);
   font-size: 0.8125rem;
+}
+
+.site-footer p {
+  margin: 0;
 }
 
 .site-footer a {
@@ -317,19 +396,30 @@ th {
   .sidebar-inner {
     position: static;
     max-height: none;
-    padding: 1rem 1.25rem;
+    padding: 1rem 1.25rem 0.5rem;
   }
 
   .toc summary {
     display: list-item;
-    margin-top: 0.75rem;
+    margin-top: 0.25rem;
+    padding-block: 0.6rem;
     color: var(--text);
     cursor: pointer;
     font-weight: 600;
   }
 
   .toc nav > ul {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  .toc nav > ul > li > a,
+  .toc li li a {
+    display: block;
+    padding-block: 0.6rem;
+  }
+
+  .toc nav > ul > li {
+    margin-bottom: 0.5rem;
   }
 
   main {
@@ -341,13 +431,71 @@ th {
   }
 }
 
+/* Printing: black on white, full width, headings kept with what follows. */
+
 @media print {
+  :root {
+    --text: #000000;
+    --muted: #333333;
+    --faint: #666666;
+    --background: #ffffff;
+    --sidebar: #ffffff;
+    --rule: #bbbbbb;
+    --link: #000000;
+  }
+
+  @page {
+    margin: 18mm;
+  }
+
+  body {
+    font-size: 11pt;
+    line-height: 1.45;
+  }
+
   .sidebar,
-  .site-footer {
+  .skip-link,
+  .on-this-page,
+  .screen-only {
     display: none;
+  }
+
+  .print-only {
+    display: block;
   }
 
   .layout {
     display: block;
+  }
+
+  main {
+    padding: 0;
+  }
+
+  .content {
+    max-width: none;
+  }
+
+  h1,
+  h2,
+  h3 {
+    break-after: avoid;
+  }
+
+  tr,
+  pre {
+    break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  .table-scroll {
+    overflow: visible;
+  }
+
+  .site-footer {
+    margin-top: 2rem;
   }
 }

@@ -7,4 +7,18 @@ layout: base.njk
 </p>
 {%- endif %}
 <h1>{{ title }}</h1>
+{%- if reviewed %}
+<p class="reviewed">Last reviewed {{ reviewed | readableDate }}</p>
+{%- endif %}
+{%- set headings = content | pageHeadings %}
+{%- if toc and headings.length > 1 %}
+<nav class="on-this-page" aria-labelledby="on-this-page-label">
+  <p id="on-this-page-label">On this page</p>
+  <ul>
+    {%- for heading in headings %}
+    <li><a href="#{{ heading.id }}">{{ heading.text | safe }}</a></li>
+    {%- endfor %}
+  </ul>
+</nav>
+{%- endif %}
 {{ content | safe }}
