@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 1
 ---
 
-You nominate the examiners once your candidate lodges their Notification of Intention to Submit. The PGC, the Faculty and the Graduate Research School each review the nomination before anyone is invited, and a declared conflict adds the Dean of Graduate Research, so a nomination that has to be redone costs weeks.
+You nominate the examiners once your candidate lodges their Notification of Intention to Submit. The PGC, the Faculty and the Graduate Research School each review the nomination before anyone is invited, and a declared conflict adds the Dean of Graduate Research, so a nomination that has to be redone costs weeks. You can approach a potential examiner beforehand to check they are willing and available: the no-contact rule starts only once the nomination is approved.
 
 You need two examiners, both external to UNSW, and for a PhD at least one from outside Australia. Each must be an expert in the field of the thesis with a substantial publication record, and have supervised or examined doctoral candidates before. "External to UNSW" also rules out adjunct, emeritus, honorary and conjoint title holders, and anyone UNSW has employed in the last five years. The panel chair is nominated separately by the PGC, usually from the School.
 
@@ -36,9 +36,11 @@ Normally disqualifying, counting **any** supervisor and not just the primary:
 - co-authorship with the candidate or a supervisor in the last five years;
 - a supervisor's former PhD student or co-supervisor within five years, or anyone who has advised on the thesis;
 - a current grant, business relationship, or employment either way within five years;
-- shared membership of a board or committee with a supervisor, **editorial boards and grant panels included**;
-- any current UNSW appointment or title;
+- any current UNSW appointment or title, or UNSW employment in the last five years;
+- having already assessed this candidate's work in the last five years;
 - the two examiners being at the same institution as each other.
+
+Declare, and expect it to be manageable: **shared membership of an editorial board, grant panel or committee** with a supervisor or the candidate, and an examiner who has already examined for UNSW twice in the last year or five times in five years. In a field this small both are common.
 
 The list is not exhaustive, and it is not yours to apply. **You do not decide whether a conflict disqualifies someone, and nor does the PGC.** You declare it so that it can be assessed independently, and many conflicts turn out to be manageable. Take anything doubtful to the PGC before you nominate: a conflict discovered later annuls the examiner's report, and a replacement is appointed months into your candidate's examination.
 
