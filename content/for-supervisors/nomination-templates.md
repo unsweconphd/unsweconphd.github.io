@@ -14,19 +14,7 @@ Contact each examiner before you nominate them. The form's declaration confirms 
 
 ## What the form asks
 
-For each examiner:
-
-- **Details:** title, position, name, email, and whether they are based in Australia or overseas.
-- **Four yes/no questions on conflicts of interest.** A Yes opens a box for details.
-  1. Has the candidate had a working relationship with the examiner?
-  2. Have any of the supervisors had a working relationship with the examiner?
-  3. Has the examiner worked at or had an affiliation with UNSW in the last 5 years?
-  4. Any other issues pertaining to conflict of interest?
-- **A justification in four fields:**
-  1. The career stage of the examiner or years of experience in the field
-  2. The examiner's research expertise and their standing in the field (e.g. publications, citations)
-  3. The aspects of the thesis that the examiner is qualified to assess
-  4. The examiner's experience in HDR supervision and HDR examination
+For each examiner, four yes/no questions on conflicts of interest, and a justification in four fields: career stage, expertise and standing, the aspects of the thesis they can assess, and experience in HDR supervision and examination. A Yes to a conflict question asks for details.
 
 ## Templates
 
