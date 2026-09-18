@@ -14,7 +14,7 @@ redirectFrom:
 
 Lodge a **Notification of Intention to Submit** in [GRIS](https://gris.unsw.edu.au/login) at least two months before you plan to submit. UNSW starts arranging your examiners when you lodge it.
 
-A PhD must be completed within 4 years of full-time study. If you started in Term 1, plan to submit around September of Year 4.
+The maximum length of a PhD is 4 years of full-time study, counted from when you started, so a Term 1 start means your thesis is due in Term 1 four years later. Approved leave and part-time enrolment move the date. If you are going to run over, you need approved overtime enrolment, which takes a progress review and a completion plan, so raise it with the PGC early.
 
 ## Your examiners are appointed before you submit
 
