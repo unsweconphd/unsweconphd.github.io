@@ -10,7 +10,7 @@ redirectFrom:
   - /research-resources/oral-examination/
 ---
 
-After you [submit](/thesis/submission/), your examiners read the thesis and report on it. Most candidates then defend it at an oral examination. The outcomes at the end of this page apply whether or not you have one.
+After you [submit](/thesis/submission/), your examiners read the thesis and report on it. Most candidates then defend it at an oral examination. The same outcomes apply to written-only examinations.
 
 ## Does it apply to you?
 
@@ -28,7 +28,7 @@ If your PhD started earlier, your examination is written only, unless your exami
 | At least one week before the oral | The panel chair sends you and your primary supervisor the reports and the questions |
 | About eight weeks after your thesis went to the examiners | The oral |
 
-The examiners' reports set what is discussed. Before the oral the panel chair asks the examiners and your supervisors to clarify the issues the reports raise, and agrees with the panel how it will run. So what you will be asked is settled in advance, and you have it a week ahead.
+The examiners' reports set what is discussed. Before the oral the panel chair asks the examiners and your supervisors to clarify the issues the reports raise, and agrees with the panel how it will run. You are asked about the reports and the questions you have already seen, though the examiners can follow up on anything you do not answer fully.
 
 Read the reports with your supervisors, work out an answer to each question, and practise both the presentation and the questions. Your supervisors are responsible for making sure you are prepared. The Graduate Research School runs a workshop on oral examinations; see the [UNSW HDR Hub](https://unsw.sharepoint.com/sites/unswhdr) (UNSW login required).
 
@@ -36,11 +36,11 @@ Read the reports with your supervisors, work out an answer to each question, and
 
 ## On the day
 
-The oral takes one to two hours, in person, online or both. The panel chair introduces you and explains how it will run. You present your thesis: what it does, how, what it finds, and why it is original and significant next to other work in the field. The examiners then work through their reports and questions, follow up on anything you do not answer fully, and settle what revisions you need to make. You leave while the panel drafts its report, then come back to hear a provisional recommendation.
+The oral takes one to two hours. It is usually held online, because your examiners are from outside UNSW and typically not in Sydney; in person and hybrid are both possible. The panel chair introduces you and explains how it will run. You present your research question, methods and findings, and explain what the thesis adds to existing work in the field. The examiners then work through their reports and questions, and settle what revisions you need to make. You leave while the panel drafts its report, then come back to hear a provisional recommendation.
 
 ## Outcomes
 
-The recommendation you hear on the day is provisional. The Dean of Graduate Research confirms it or, after discussing it with the panel chair, decides a different one.
+The Dean of Graduate Research confirms the panel's recommendation or, after discussing it with the panel chair, decides a different outcome.
 
 | Recommendation | What it means for you |
 |----------------|-----------------------|
@@ -50,6 +50,6 @@ The recommendation you hear on the day is provisional. The Dean of Graduate Rese
 | Revise and re-examine | You re-enrol, normally for at least two terms full time and up to a year, revise your thesis and are examined again, including a second oral. This is permitted once only. |
 | Non-award | The thesis does not merit the degree, and is not considered to warrant resubmission. For a doctorate, the examiners must have considered whether a Master by Research could be awarded instead. You can appeal only on the grounds that the process was not carried out fairly. |
 
-Whatever the outcome, you answer the examiners' reports on the Response to Examiners form and make the corrections. The degree is awarded once the Dean of Graduate Research is satisfied with them and your final thesis is deposited in the Library.
+If you are required to make corrections, you answer the examiners' reports on the Response to Examiners form. Your degree is awarded once the Dean of Graduate Research is satisfied with the corrections and your final thesis is deposited in the Library.
 
 For the full rules, see the UNSW [HDR Examination Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrexamination.pdf) and the [Higher Degree Research Policy](https://www.unsw.edu.au/governance/policy/policy-hub/hdrpolicy).

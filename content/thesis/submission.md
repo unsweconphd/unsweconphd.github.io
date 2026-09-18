@@ -12,13 +12,11 @@ redirectFrom:
   - /miscellaneous/thesis-style-files/
 ---
 
-Submitting starts the examination. Your examiners report, you defend the thesis at an [oral examination](/thesis/oral-examination/), you make the corrections they ask for, and the final thesis goes to the Library. The degree is awarded at the end.
+Lodge a **Notification of Intention to Submit** in [GRIS](https://gris.unsw.edu.au/login) at least two months before you plan to submit. UNSW starts arranging your examiners when you lodge it.
 
 A PhD must be completed within 4 years of full-time study. If you started in Term 1, plan to submit around September of Year 4.
 
 ## Your examiners are appointed before you submit
-
-Lodge a **Notification of Intention to Submit** in [GRIS](https://gris.unsw.edu.au/login) at least two months before you plan to submit. This is what starts the appointment of your examiners, so it sets the timetable for everything that follows.
 
 Your panel is two examiners from outside UNSW, at least one of them normally from outside Australia, and a UNSW panel chair who runs the examination but does not examine you. You are told their names.
 
@@ -32,7 +30,7 @@ Your primary supervisor also has to complete a Supervisor's Certificate in GRIS 
 - **List the publications and presentations that came out of your research** in the front matter, as well as declaring them in GRIS.
 - **If you hold an RTP scholarship**, the prescribed acknowledgement sentence is compulsory. Copy it from the current Thesis Format Guide, not from an older thesis: it now contains a DOI.
 
-If any of your chapters are papers, read [using publications in your thesis](/thesis/using-publications/). Those rules are the easiest to get wrong.
+If any of your chapters are papers, read [using publications in your thesis](/thesis/using-publications/).
 
 ## Templates
 
