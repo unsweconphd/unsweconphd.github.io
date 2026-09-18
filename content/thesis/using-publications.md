@@ -10,9 +10,7 @@ redirectFrom:
   - /research-resources/using-publications/
 ---
 
-These rules apply before a paper is accepted anywhere: how you use it in the thesis decides the category you declare in GRIS.
-
-When you start a coauthored paper, discuss with your supervisor what your contribution will be, and what written confirmation you will need from your coauthors. Your supervisor and the PGC have to approve any paper you use in place of a chapter, so bring uncertain cases to the PGC before you settle your chapter structure.
+Every chapter of your thesis has to be classified under the Graduate Research School's and the Business School's rules on including publications. Working papers count, so this covers most economics chapters. The classification decides how you present each chapter, what you need in writing from your coauthors, and what you declare in GRIS when you submit.
 
 ## What counts as a publication
 
