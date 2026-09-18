@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 
-You nominate two examiners once your candidate lodges their Notification of Intention to Submit. Both must be external to UNSW, and for a PhD at least one should be from outside Australia. The form asks you to justify each examiner's suitability and to declare any potential conflict of interest. The PGC, the Faculty and the Graduate Research School review the nomination before anyone is invited.
+You nominate two examiners once your candidate lodges their Notification of Intention to Submit. Both must be external to UNSW, and for a PhD at least one should be from outside Australia. The form asks you to justify each examiner's suitability and to declare any potential conflict of interest. The PGC, the Faculty and the Graduate Research School review the nomination before anyone is invited. The form's fields, with templates and examples from approved nominations, are on [Nomination of Examiners: fields and templates](/for-supervisors/nomination-templates/).
 
 ## Conflicts of interest
 
