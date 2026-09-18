@@ -68,5 +68,5 @@ The PhD takes 3.5 to 4 years of doctoral research. If you enter through the Mast
 - Have your job market paper ready to submit by the **middle of Year 4**.
   - The academic job market for new PhDs in economics is well established and well organised, and its dates don't change much from year to year.
   - Start assembling your job market package by **October**, and discuss your job prospects with your supervisors and the PGRC.
-- Submit your thesis. The maximum length of a PhD is 4 years of full-time study, so a Term 1 start means your thesis is due in Term 1 four years later. See [thesis submission](/thesis/submission/) for the steps.
+- Submit your thesis. The maximum length of a PhD is four years of full-time enrolment from the day you started, so a Term 1 start falls due at the start of Term 1 four years later. See [thesis submission](/thesis/submission/) for the steps.
 - After you submit, your examiners report on your thesis and, if your PhD started in Term 1 2023 or later, you defend it at an [oral examination](/thesis/oral-examination/), expected about eight weeks after your thesis is sent to them. Leave time afterwards for the corrections the examiners ask for.
