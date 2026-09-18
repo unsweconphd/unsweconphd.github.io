@@ -16,6 +16,8 @@ Lodge a **Notification of Intention to Submit** in [GRIS](https://gris.unsw.edu.
 
 The maximum length of a PhD is four years of full-time enrolment, counted from the day you started, so a Term 1 start falls due at the start of Term 1 four years later. Approved leave and part-time enrolment push the date out, so work from your own commencement date rather than counting terms. If you are going to run over, you need approved overtime enrolment, which takes a progress review and a completion plan, so raise it with the PGC early.
 
+**If you are at all uncertain about your submission timeline, contact the PGC.**
+
 ## Your examiners are appointed before you submit
 
 Your panel is two examiners from outside UNSW, at least one of them normally from outside Australia, and a UNSW panel chair who runs the examination but does not examine you. You are told their names.
