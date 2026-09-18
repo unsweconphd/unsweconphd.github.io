@@ -22,8 +22,6 @@ Lodge a **Notification of Intention to Submit** in [GRIS](https://gris.unsw.edu.
 
 Your panel is two examiners from outside UNSW, at least one of them normally from outside Australia, and a UNSW panel chair who runs the examination but does not examine you. You are told their names.
 
-**From the moment you know who they are until the examination is over, neither you nor your supervisors may contact them.** Economics is small enough that you probably know them, so be careful at conferences and seminars.
-
 Your primary supervisor also has to complete a Supervisor's Certificate in GRIS before the thesis can go out, which includes running the final version through iThenticate. Ask them to do it early.
 
 ## What catches people out
