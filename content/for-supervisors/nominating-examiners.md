@@ -13,7 +13,7 @@ You nominate two examiners once your candidate lodges their Notification of Inte
 
 **Before you nominate, check for conflicts of interest.** Search online for the examiner's name together with yours, each co-supervisor's and the candidate's, using a search engine or an LLM, and look for any connection between them: joint papers, grants, a shared editorial board.
 
-**Raise every potential conflict with the PGC before you nominate, even one that seems innocuous**, such as serving on the same editorial board. Neither you nor the PGC decides whether it rules the examiner out, and a declared conflict does not automatically do so. An undeclared conflict that surfaces later annuls that examiner's report.
+**Raise every potential conflict with the PGC before you nominate, even one that seems innocuous**, such as serving on the same editorial board. If the conflict is manageable, answer Yes to the relevant question on the form and give the details; the PGC will defend the nomination to the Graduate Research School. A declared conflict does not automatically rule an examiner out, but an undeclared one that surfaces later annuls that examiner's report.
 
 Once the nomination is approved, neither you nor the candidate may contact the examiners until the examination is over.
 
