@@ -20,7 +20,7 @@ The maximum length of a PhD is four years of full-time enrolment, counted from t
 
 ## Your examiners are appointed before you submit
 
-Your panel is two examiners from outside UNSW, at least one of them normally from outside Australia, and a UNSW panel chair who runs the examination but does not examine you. You are told their names.
+Your panel is two examiners from outside UNSW, at least one of them normally from outside Australia, and a panel chair from UNSW who runs the examination but does not examine you, usually an academic from the School of Economics. You are told their names.
 
 Your primary supervisor also has to complete a Supervisor's Certificate in GRIS before the thesis can go out, which includes running the final version through iThenticate. Ask them to do it early.
 
