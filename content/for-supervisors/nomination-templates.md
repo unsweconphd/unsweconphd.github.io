@@ -47,7 +47,7 @@ HDR supervision and examination:
 including at [universities].
 ```
 
-Conflict details, if any question is answered Yes. Discuss the conflict with the PGC first; the PGC will defend the nomination to the Graduate Research School.
+Conflict details, if you and the PGC agree that a conflict is manageable and you answer Yes. The PGC will defend the nomination to the Graduate Research School.
 
 ```
 [Name] and [supervisor] both serve on [the editorial board of X / the
