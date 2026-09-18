@@ -14,20 +14,21 @@ You need two examiners, both external to UNSW, and for a PhD at least one from o
 
 ## The justification
 
-The form asks you to justify each examiner against those criteria. "A leading scholar in the field" is not a justification. Write something a reviewer can check:
+The form asks you to justify each examiner against those criteria. For each one, give evidence a reviewer can check:
 
 - **Expertise, tied to this thesis.** Which chapters, and which of their papers bear on them.
 - **Standing.** Position, institution, where they publish, editorships or fellowships.
 - **Examination experience.** Candidates supervised to completion, theses examined and where.
-- **Independence.** What you checked, not just that you found nothing.
+- **Independence.** What you checked for conflicts, and what you found.
 
 > Professor [Name] is [position] at [university, country]. [Paper] and [paper] bear directly on Chapters 2 and 3, which develop [topic]. They are [associate editor of [journal]], have supervised [n] doctoral candidates to completion, and have examined PhD theses at [institutions]. Neither the candidate nor any supervisor has co-authored with them, held a grant with them, or been supervised by them; they hold no UNSW appointment; and I have found no shared editorial board, committee or grant panel.
 
-## Search before you nominate
+## Check for connections before you nominate
 
-Do not rely on memory. Search each supervisor's name, and the candidate's, together with the examiner's, and look for co-authored work including comments and edited volumes, grants and grant panels, editorial boards, committees and society offices, and doctoral committees. The connections that cause trouble are the forgotten ones: a board you joined years ago, a chapter in a volume they edited.
-
-Ask your supervisory team and the candidate too. If the candidate raises a concern about a potential examiner, document it and nominate someone else where you can.
+1. Search the examiner's name together with each supervisor's name, and together with the candidate's, in a search engine or an LLM.
+2. Look for joint papers, including chapters in edited volumes, and for shared grants, editorial boards, committees and doctoral committees.
+3. Ask the other supervisors and the candidate whether they know of any connection. If the candidate objects to an examiner, record the objection and choose someone else if you can.
+4. Declare anything you find, and discuss it with the PGC before you nominate.
 
 ## Conflicts of interest
 
@@ -40,11 +41,11 @@ Normally disqualifying, counting **any** supervisor and not just the primary:
 - having already assessed this candidate's work in the last five years;
 - the two examiners being at the same institution as each other.
 
-Declare, and expect it to be manageable: **shared membership of an editorial board, grant panel or committee** with a supervisor or the candidate, and an examiner who has already examined for UNSW twice in the last year or five times in five years. In a field this small both are common.
+Declare, and expect it to be manageable: **shared membership of an editorial board, grant panel or committee** with a supervisor or the candidate, and an examiner who has already examined for UNSW twice in the last year or five times in five years. Both are common in economics.
 
-The list is not exhaustive, and it is not yours to apply. **You do not decide whether a conflict disqualifies someone, and nor does the PGC.** You declare it so that it can be assessed independently, and many conflicts turn out to be manageable. Take anything doubtful to the PGC before you nominate: a conflict discovered later annuls the examiner's report, and a replacement is appointed months into your candidate's examination.
+This list is not complete. **You do not decide whether a conflict disqualifies someone, and nor does the PGC.** You declare it so that it can be assessed independently, and many conflicts turn out to be manageable. Take anything doubtful to the PGC before you nominate: a conflict discovered later annuls the examiner's report, and a replacement is appointed months into your candidate's examination.
 
-State the facts and leave the judgement alone:
+State the facts. Do not argue whether they matter. For example:
 
 > [Name] and I have both served on the editorial board of [journal] since [year]. We have never co-authored, hold no grants together, and board duties do not involve working together. I am declaring this so that it can be assessed.
 
