@@ -1,56 +1,20 @@
 ---
 title: "Nominating examiners"
 reviewed: 2026-09-18
-toc: true
 eleventyNavigation:
   key: "Nominating examiners"
   parent: "For supervisors"
   order: 1
 ---
 
-You nominate the examiners once your candidate lodges their Notification of Intention to Submit. The PGC, the Faculty and the Graduate Research School each review the nomination before anyone is invited, and a declared conflict adds the Dean of Graduate Research, so a nomination that has to be redone costs weeks. You can approach a potential examiner beforehand to check they are willing and available: the no-contact rule starts only once the nomination is approved.
-
-You need two examiners, both external to UNSW, and for a PhD at least one from outside Australia. Each must be an expert in the field of the thesis with a substantial publication record, and have supervised or examined doctoral candidates before. "External to UNSW" also rules out adjunct, emeritus, honorary and conjoint title holders, and anyone UNSW has employed in the last five years. The panel chair is nominated separately by the PGC, usually from the School.
-
-## The justification
-
-The form asks you to justify each examiner against those criteria. For each one, give evidence a reviewer can check:
-
-- **Expertise, tied to this thesis.** Which chapters, and which of their papers bear on them.
-- **Standing.** Position, institution, where they publish, editorships or fellowships.
-- **Examination experience.** Candidates supervised to completion, theses examined and where.
-- **Independence.** What you checked for conflicts, and what you found.
-
-> Professor [Name] is [position] at [university, country]. [Paper] and [paper] bear directly on Chapters 2 and 3, which develop [topic]. They are [associate editor of [journal]], have supervised [n] doctoral candidates to completion, and have examined PhD theses at [institutions]. Neither the candidate nor any supervisor has co-authored with them, held a grant with them, or been supervised by them; they hold no UNSW appointment; and I have found no shared editorial board, committee or grant panel.
-
-## Check for connections before you nominate
-
-1. Search the examiner's name together with each supervisor's name, and together with the candidate's, in a search engine or an LLM.
-2. Look for joint papers, including chapters in edited volumes, and for shared grants, editorial boards, committees and doctoral committees.
-3. Ask the other supervisors and the candidate whether they know of any connection. If the candidate objects to an examiner, record the objection and choose someone else if you can.
-4. Declare anything you find, and discuss it with the PGC before you nominate.
+You nominate two examiners once your candidate lodges their Notification of Intention to Submit. Both must be external to UNSW, and for a PhD at least one should be from outside Australia. The form asks you to justify each examiner's suitability and to declare any potential conflict of interest. The PGC, the Faculty and the Graduate Research School review the nomination before anyone is invited.
 
 ## Conflicts of interest
 
-Normally disqualifying, counting **any** supervisor and not just the primary:
+**Before you nominate, search online for the examiner's name together with yours, each co-supervisor's and the candidate's.** A search engine or an LLM will do.
 
-- co-authorship with the candidate or a supervisor in the last five years;
-- a supervisor's former PhD student or co-supervisor within five years, or anyone who has advised on the thesis;
-- a current grant, business relationship, or employment either way within five years;
-- any current UNSW appointment or title, or UNSW employment in the last five years;
-- having already assessed this candidate's work in the last five years;
-- the two examiners being at the same institution as each other.
+**Raise every potential conflict with the PGC before you nominate, even one that seems innocuous**, such as serving on the same editorial board. Neither you nor the PGC decides whether it rules the examiner out, and a declared conflict does not automatically do so. An undeclared conflict that surfaces later annuls that examiner's report.
 
-Declare, and expect it to be manageable: **shared membership of an editorial board, grant panel or committee** with a supervisor or the candidate, and an examiner who has already examined for UNSW twice in the last year or five times in five years. Both are common in economics.
+Once the nomination is approved, neither you nor the candidate may contact the examiners until the examination is over.
 
-This list is not complete. **You do not decide whether a conflict disqualifies someone, and nor does the PGC.** You declare it so that it can be assessed independently, and many conflicts turn out to be manageable. Take anything doubtful to the PGC before you nominate: a conflict discovered later annuls the examiner's report, and a replacement is appointed months into your candidate's examination.
-
-State the facts. Do not argue whether they matter. For example:
-
-> [Name] and I have both served on the editorial board of [journal] since [year]. We have never co-authored, hold no grants together, and board duties do not involve working together. I am declaring this so that it can be assessed.
-
-## After approval
-
-The candidate is told the examiners' names, and from then until the examination is over neither the candidate nor the supervisors may contact them. If contact does happen, either way, tell the Graduate Research School. The examination sometimes has to be stopped and new examiners appointed.
-
-Section 8 of the [HDR Examination Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrexamination.pdf) governs nomination, and UNSW assesses conflicts against the ACGR [Guidelines for Disclosing and Managing Interests in Graduate Research](https://www.acgr.edu.au/wp-content/uploads/2024/07/ACGR-Guidelines-for-Disclosing-and-Managing-Interests-in-Graduate-Research-updated.pdf).
+The rules are in section 8 of the UNSW [HDR Examination Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrexamination.pdf).
