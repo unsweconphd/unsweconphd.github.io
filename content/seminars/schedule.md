@@ -1,6 +1,6 @@
 ---
 title: "Seminar schedule"
-reviewed: 2026-09-17
+reviewed: 2026-10-09
 eleventyNavigation:
   key: "Schedule"
   parent: "Seminars"
@@ -12,7 +12,7 @@ redirectFrom:
 
 ## 2026 Term 3
 
-Fridays, 2–3 pm, in Room 2063, Level 2, Quadrangle Building (E15).
+Fridays, 2–3 pm, in the Economics Seminar Room, Level 4, East Wing, UNSW Business School (E12).
 
 | Week | Date | Presenter | Discussant | Job market talk |
 |------|------|-----------|------------|-----------------|
