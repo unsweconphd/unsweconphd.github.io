@@ -118,6 +118,20 @@ summary:focus-visible {
   text-decoration: none;
 }
 
+.site-logo {
+  display: block;
+  width: 8.5rem;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+/* The UNSW logo has black lettering, so dark mode goes without it. */
+@media (prefers-color-scheme: dark) {
+  .site-logo {
+    display: none;
+  }
+}
+
 .site-title span {
   display: block;
   margin-top: 0.15rem;

@@ -25,6 +25,7 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("content/files");
   eleventyConfig.addPassthroughCopy({ "theme/style.css": "style.css" });
+  eleventyConfig.addPassthroughCopy({ "theme/unsw-sydney.png": "unsw-sydney.png" });
 
   eleventyConfig.amendLibrary("md", (md) => {
     // Give headings their ids while the Markdown is rendered, so the "On this page" list can link to them.
