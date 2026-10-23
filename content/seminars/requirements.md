@@ -1,6 +1,6 @@
 ---
 title: "Seminar requirements"
-reviewed: 2026-09-17
+reviewed: 2026-10-23
 toc: true
 eleventyNavigation:
   key: "Requirements"
@@ -50,5 +50,5 @@ Year 4 students present their job market paper twice, in Term 1 and Term 2, to p
 
 ## Everyone else
 
-- Please engage actively in the presentation. Try to be as critical (note: not mean) as possible; bonus points if you can pick apart the substance of the paper, such as its motivation or contribution. The aim is to help the presenter improve their research as much as possible.
+- Please engage actively in the presentation. Be critical but constructive; bonus points if your questions go to the substance of the paper, such as its motivation or contribution. The aim is to help the presenter improve their research as much as possible.
 - If you attend via Zoom, you are expected to turn on your camera.
