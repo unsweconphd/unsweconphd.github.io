@@ -15,11 +15,11 @@ Use the [ER1 form](https://unsw.sharepoint.com/sites/finance-hub/Shared%20Docume
 1. Enter the relevant items on the ER1 form.
 2. Send the completed ER1 form to Sussan Su (<q.su@unsw.edu.au>). Attach:
    - the tax invoice or receipt for each item
-   - the bank transactions showing your payments
-   - the relevant emails from the Postgraduate Research Coordinator (PGRC).
-3. Sussan gets the PGRC's signature on the form and sends the claim to Finance for processing.
+   - the bank or credit card transactions showing your payments
+   - the relevant emails from Hongyi Li, the Postgraduate Research Coordinator (PGRC).
+3. Sussan gets Hongyi's signature on the form and sends the claim to Finance for processing.
 
-Don't ask the PGRC to sign the form yourself.
+Don't ask Hongyi to sign the form yourself.
 
 ## Details for myexpenses
 
@@ -33,4 +33,4 @@ The claim is lodged in [myexpenses](https://www.fin.unsw.edu.au/myexpenses) (UNS
 | Project description | SDDRESE Res Stdnt Sppt – ECON |
 | Approver | Hock Thye Chan |
 
-Attach the tax invoices or receipts, the bank statement, and the relevant emails from the PGRC.
+Attach the tax invoices or receipts, the bank or credit card statement, and the relevant emails from Hongyi.
