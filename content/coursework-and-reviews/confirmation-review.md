@@ -1,6 +1,6 @@
 ---
 title: "Confirmation review"
-reviewed: 2026-09-17
+reviewed: 2026-10-24
 toc: true
 eleventyNavigation:
   key: "Confirmation review"
@@ -35,7 +35,7 @@ Panel members cannot be anyone who has been on your supervisory team, academics 
 | [PhD Program Learning Outcomes (PLO) assessment form](https://unsw-my.sharepoint.com/:w:/g/personal/z3485733_ad_unsw_edu_au/EZdCJAJfIYBCrnbtah0T6gQB1it2PHIJc9ZPkman-gaU5w?e=rxHeNd), signed by your supervisor (a Business School requirement) | GRIS | At least one month before |
 | Presentation material | Email to your panel | At least one week before |
 
-If you miss the review or don't complete the GRIS form, you will receive a show cause request.
+If you miss the review or don't complete the GRIS form, you will receive a [show cause request](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf). If you have questions about the show cause process, talk to the PGRC.
 
 ## At the review
 
@@ -73,7 +73,7 @@ UNSW's research integrity and research data management training, and any require
 
 - The outcome of your confirmation review will be **Marginal** or **Unsatisfactory**.
 - The panel sets conditions, and a second confirmation review is held within **three months** (for full-time candidates).
-- If you still don't meet the requirements at the second review, you will be asked to show cause why your enrolment should continue.
+- If you still don't meet the requirements at the second review, you will be asked to [show cause](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf) why your enrolment should continue.
 
 ## Teaching
 

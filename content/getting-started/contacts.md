@@ -1,6 +1,6 @@
 ---
 title: "Contacts and glossary"
-reviewed: 2026-09-17
+reviewed: 2026-10-24
 toc: true
 eleventyNavigation:
   key: "Contacts and glossary"
@@ -49,6 +49,6 @@ Talk to the PGRC, who acts as a confidential adviser for research candidates and
 | Pre-Trip Approval | The approval every UNSW trip needs, lodged through MyTravel@UNSW. |
 | RA | Research assistant. |
 | Response to Examiners form | The form on which you answer the examiners' reports and record the corrections you have made. |
-| Show cause | A formal request to explain why your enrolment should continue, for example after an unsuccessful review. |
+| Show cause | A formal request to explain why your enrolment should continue, for example after an unsuccessful review. UNSW's [HDR Show Cause Instruction](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf) sets out the process. If you have questions about it, talk to the PGRC. |
 | SOE | School of Economics. |
 | Variation of candidature | A formal change to your candidature, such as working away from UNSW, lodged in GRIS. |

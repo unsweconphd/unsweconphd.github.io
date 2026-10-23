@@ -39,7 +39,7 @@ Panel members cannot be anyone who has been on your supervisory team, academics 
 | Draft of the paper you are presenting | Email to all panel members; ideally also attached in GRIS | At least two weeks before |
 | Presentation material | Email to your supervisors and panel members | At least two days before |
 
-If you miss the review or don't complete the GRIS form, you will receive a show cause request.
+If you miss the review or don't complete the GRIS form, you will receive a [show cause request](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf). If you have questions about the show cause process, talk to the PGRC.
 
 ## At the review
 
@@ -50,7 +50,7 @@ If you miss the review or don't complete the GRIS form, you will receive a show 
 
 ## Outcomes
 
-- The outcome of an APR is **Satisfactory**, **Marginal**, **Unsatisfactory**, or **Unsatisfactory with a request to show cause**.
+- The outcome of an APR is **Satisfactory**, **Marginal**, **Unsatisfactory**, or **Unsatisfactory with a [request to show cause](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf)**.
 - After a Marginal or Unsatisfactory outcome, an additional review is held **three months** later (for full-time candidates).
 
 ## Minimum requirements
