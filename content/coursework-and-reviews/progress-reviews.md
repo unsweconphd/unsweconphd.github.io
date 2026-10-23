@@ -1,6 +1,6 @@
 ---
 title: "Annual progress reviews"
-reviewed: 2026-09-17
+reviewed: 2026-10-24
 toc: true
 eleventyNavigation:
   key: "Annual progress reviews"
@@ -14,6 +14,8 @@ redirectFrom:
 After your confirmation review, you have an annual progress review (APR) every year. Each APR must be held within 12 months of your previous review, whether that was your confirmation review or an earlier APR. UNSW's policy calls these reviews Research Progress Reviews.
 
 You can hold it earlier than that, and sometimes should: for example, to give your talk while a visitor whose feedback you want is in the School. Unlike the confirmation review, your APR presentation is given at one of the School's internal seminar series.
+
+If you have not submitted your thesis by the time your next APR is due, you must hold the APR, even if you plan to submit soon after. If you expect to submit around that date, we recommend scheduling the APR anyway.
 
 ## Before the review
 
