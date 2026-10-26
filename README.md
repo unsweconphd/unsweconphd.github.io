@@ -84,7 +84,7 @@ Page text in Markdown.
 - `toc: true` adds an "On this page" list of the page's `## ` headings. Use it
   on long pages.
 - `key` is the page's label in the menu, `parent` is the `key` of its section
-  (`Getting started`, `Coursework`, `Reviews`, `Seminars`,
+  (`Getting started`, `Coursework`, `Progress reviews`, `Seminars`,
   `Funding and travel`, `Thesis` or `For supervisors`),
   and `order` is its position within the section.
 - The page appears at `/funding-and-travel/conference-grants/`, in the sidebar,

@@ -4,7 +4,7 @@ reviewed: 2026-10-24
 toc: true
 eleventyNavigation:
   key: "Confirmation review"
-  parent: "Reviews"
+  parent: "Progress reviews"
   order: 1
 redirectFrom:
   - /coursework-and-reviews/confirmation-review/
