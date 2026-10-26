@@ -33,12 +33,11 @@ Panel members cannot be anyone who has been on your supervisory team, academics 
 | Presentation slides | GRIS | At least one month before |
 | Evidence that you have completed UNSW's research integrity and research data management training | GRIS | At least one month before |
 | Milestones for the next 12 months, agreed with your supervisors, and a timeline for completing your thesis | GRIS | At least one month before |
-| PhD Program Learning Outcomes (PLO) [assessment form](https://unsw.sharepoint.com/sites/Connect/Teams/Research/Shared%20Documents/BUS%20PhD%20PLO%20form%20-%20FINAL%20310122.pdf)\* | Email to panel chair | Before the review |
-| Presentation material | Email to your panel | At least one week before |
+| Presentation material, with the PLO [assessment form](https://unsw.sharepoint.com/sites/Connect/Teams/Research/Shared%20Documents/BUS%20PhD%20PLO%20form%20-%20FINAL%20310122.pdf)\* attached | Email to your panel | At least one week before |
 
 If you miss the review or don't complete the GRIS form, you will receive a [show cause request](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf). If you have questions about the show cause process, talk to the PGRC.
 
-\*The PLO assessment form is a Business School requirement. Fill in your student ID, name, School and supervisor's name on the [form](https://unsw.sharepoint.com/sites/Connect/Teams/Research/Shared%20Documents/BUS%20PhD%20PLO%20form%20-%20FINAL%20310122.pdf) (UNSW login required), and email it to your panel chair, cc'ing Sussan Su (<q.su@unsw.edu.au>), before the review. The panel completes the rest: at the start of your talk, you must remind the panel to fill in the form. The chair or the PGRC then uploads it to GRIS under Documents.
+\*The PLO assessment form is a Business School requirement. Download the [form](https://unsw.sharepoint.com/sites/Connect/Teams/Research/Shared%20Documents/BUS%20PhD%20PLO%20form%20-%20FINAL%20310122.pdf) (UNSW login required), fill in your student ID, name, School and supervisor's name, and attach it to the email with your presentation material. At the start of your talk, you must remind the panel to fill in the form. The chair or the PGRC then uploads it to GRIS under Documents.
 
 ## At the review
 
