@@ -1,6 +1,6 @@
 ---
 title: "Contacts and glossary"
-reviewed: 2026-10-24
+reviewed: 2026-10-26
 toc: true
 eleventyNavigation:
   key: "Contacts and glossary"
@@ -13,7 +13,7 @@ eleventyNavigation:
 | For | Contact |
 |-----|---------|
 | Course choices and approvals, supervisors, review panels and timing, conference funding requests, seminar attendance | Postgraduate Research Coordinator (PGRC) |
-| Seminar abstracts, access to example referee reports, general PhD enquiries | School HDR support, <econ.hdr@unsw.edu.au> |
+| Seminar abstracts, general PhD enquiries | School HDR support, <econ.hdr@unsw.edu.au> |
 | Seminar invitations and expense claims | Sussan Su, Administrative Officer (HDR Support), <q.su@unsw.edu.au> |
 | Travel approval and travel budgets | Hock Thye Chan, School Manager |
 | Booking a slot for your annual progress review presentation | SOE seminar coordinator |

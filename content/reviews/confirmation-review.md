@@ -4,9 +4,10 @@ reviewed: 2026-10-24
 toc: true
 eleventyNavigation:
   key: "Confirmation review"
-  parent: "Coursework and reviews"
-  order: 3
+  parent: "Reviews"
+  order: 1
 redirectFrom:
+  - /coursework-and-reviews/confirmation-review/
   - /confirmation-review.html
   - /requirements/confirmation-review/
 ---

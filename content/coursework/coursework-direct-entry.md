@@ -3,9 +3,10 @@ title: "Coursework: direct-entry PhD"
 reviewed: 2026-09-17
 eleventyNavigation:
   key: "Coursework: direct-entry PhD"
-  parent: "Coursework and reviews"
+  parent: "Coursework"
   order: 2
 redirectFrom:
+  - /coursework-and-reviews/coursework-direct-entry/
   - /coursework-direct-entry-phd.html
   - /requirements/coursework-direct-entry-phd/
 ---

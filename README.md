@@ -37,10 +37,10 @@ content/                      Everything readers see
 │   ├── key-dates.md            every other file is a page in that section
 │   ├── timeline.md
 │   └── contacts.md
-├── coursework-and-reviews/
+├── coursework/
+├── reviews/
 ├── seminars/                 schedule.md holds the term timetables
 ├── funding-and-travel/
-├── research-resources/
 ├── thesis/                   publications, submission, oral examination
 ├── for-supervisors/          guidance aimed at supervisors, not candidates
 ├── files/                    PDFs, linked from pages as /files/name.pdf
@@ -84,8 +84,8 @@ Page text in Markdown.
 - `toc: true` adds an "On this page" list of the page's `## ` headings. Use it
   on long pages.
 - `key` is the page's label in the menu, `parent` is the `key` of its section
-  (`Getting started`, `Coursework and reviews`, `Seminars`,
-  `Funding and travel`, `Research resources`, `Thesis` or `For supervisors`),
+  (`Getting started`, `Coursework`, `Reviews`, `Seminars`,
+  `Funding and travel`, `Thesis` or `For supervisors`),
   and `order` is its position within the section.
 - The page appears at `/funding-and-travel/conference-grants/`, in the sidebar,
   on the home page and on the section page.

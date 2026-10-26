@@ -4,9 +4,10 @@ reviewed: 2026-10-24
 toc: true
 eleventyNavigation:
   key: "Annual progress reviews"
-  parent: "Coursework and reviews"
-  order: 4
+  parent: "Reviews"
+  order: 2
 redirectFrom:
+  - /coursework-and-reviews/progress-reviews/
   - /annual-progress-review.html
   - /requirements/annual-progress-review/
 ---

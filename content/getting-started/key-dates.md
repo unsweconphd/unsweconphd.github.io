@@ -34,14 +34,14 @@ These dates assume you started in Term 1. If you started at another time, count 
 | When | What | Details |
 |------|------|---------|
 | End of April | Agree milestones for your confirmation review with your supervisors | [Candidature timeline](/getting-started/timeline/) |
-| Late October | Tell the PGRC that you are due for confirmation | [Confirmation review](/coursework-and-reviews/confirmation-review/) |
-| November or December | Confirmation review | [Confirmation review](/coursework-and-reviews/confirmation-review/) |
+| Late October | Tell the PGRC that you are due for confirmation | [Confirmation review](/reviews/confirmation-review/) |
+| November or December | Confirmation review | [Confirmation review](/reviews/confirmation-review/) |
 
 ## PhD Years 2 and 3
 
 | When | What | Details |
 |------|------|---------|
-| By the end of each year | Annual progress review, within 12 months of your previous review | [Annual progress reviews](/coursework-and-reviews/progress-reviews/) |
+| By the end of each year | Annual progress review, within 12 months of your previous review | [Annual progress reviews](/reviews/progress-reviews/) |
 
 ## PhD Year 4
 

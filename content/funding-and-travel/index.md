@@ -3,7 +3,7 @@ title: "Funding and travel"
 layout: section.njk
 eleventyNavigation:
   key: "Funding and travel"
-  order: 4
+  order: 5
 redirectFrom:
   - /funding.html
   - /funding/

@@ -18,7 +18,7 @@ export default function (eleventyConfig) {
 
   // Builds the sidebar menu from the eleventyNavigation block in each page's front matter.
   eleventyConfig.addPlugin(eleventyNavigation);
-  // Gives headings ids, so a link can point at a section: /coursework-and-reviews/confirmation-review/#at-the-review
+  // Gives headings ids, so a link can point at a section: /reviews/confirmation-review/#at-the-review
   eleventyConfig.addPlugin(IdAttributePlugin);
   // Keeps links such as /seminars/ working if the site is ever served from a sub-path.
   eleventyConfig.addPlugin(HtmlBasePlugin);

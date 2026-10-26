@@ -3,7 +3,7 @@ title: "Seminars"
 layout: section.njk
 eleventyNavigation:
   key: "Seminars"
-  order: 3
+  order: 4
 redirectFrom:
   - /phd-seminars.html
   - /phd-seminars/

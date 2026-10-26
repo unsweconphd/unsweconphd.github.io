@@ -3,9 +3,10 @@ title: "Coursework: MPDBS pathway"
 reviewed: 2026-09-17
 eleventyNavigation:
   key: "Coursework: MPDBS pathway"
-  parent: "Coursework and reviews"
+  parent: "Coursework"
   order: 1
 redirectFrom:
+  - /coursework-and-reviews/coursework-mpdbs/
   - /coursework-mpdbs--phd.html
   - /requirements/coursework-mpdbs-phd/
 ---
