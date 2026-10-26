@@ -33,7 +33,7 @@ Panel members cannot be anyone who has been on your supervisory team, academics 
 | Presentation slides | GRIS | At least one month before |
 | Evidence that you have completed UNSW's research integrity and research data management training | GRIS | At least one month before |
 | Milestones for the next 12 months, agreed with your supervisors, and a timeline for completing your thesis | GRIS | At least one month before |
-| PhD Program Learning Outcomes (PLO) assessment form\* | Email to all panel members | Before the review |
+| PhD Program Learning Outcomes (PLO) assessment form\* | Email to panel chair | Before the review |
 | Presentation material | Email to your panel | At least one week before |
 
 If you miss the review or don't complete the GRIS form, you will receive a [show cause request](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf). If you have questions about the show cause process, talk to the PGRC.

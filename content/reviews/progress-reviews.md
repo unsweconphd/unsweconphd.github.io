@@ -36,7 +36,7 @@ Panel members cannot be anyone who has been on your supervisory team, academics 
 | Presentation slides | GRIS | At least one month before |
 | Evidence of any required UNSW training | GRIS | At least one month before |
 | Milestones for the next 12 months, agreed with your supervisors, and a timeline for completing your thesis | GRIS | At least one month before |
-| PhD Program Learning Outcomes (PLO) assessment form\* | Email to all panel members | Before the review |
+| PhD Program Learning Outcomes (PLO) assessment form\* | Email to panel chair | Before the review |
 | Draft of the paper you are presenting | Email to all panel members; ideally also attached in GRIS | At least two weeks before |
 | Presentation material | Email to your supervisors and panel members | At least two days before |
 
