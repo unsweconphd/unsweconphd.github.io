@@ -16,10 +16,8 @@ This page explains how to claim expenses from School of Economics funding (see [
 2. Send the completed ER1 form to Sussan Su (<q.su@unsw.edu.au>). Attach:
    - the tax invoice or receipt for each item
    - the bank or credit card transactions showing your payments
-   - the relevant emails from Hongyi Li, the Postgraduate Research Coordinator (PGRC).
+   - the relevant approval emails from Hongyi Li, the Postgraduate Research Coordinator (PGRC).
 3. Sussan gets Hongyi's signature on the form and sends the claim to Finance for processing.
-
-Don't ask Hongyi to sign the form yourself.
 
 ## Details for the ER1 form
 
