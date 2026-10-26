@@ -36,7 +36,7 @@ Panel members cannot be anyone who has been on your supervisory team, academics 
 | Presentation slides | GRIS | At least one month before |
 | Evidence of any required UNSW training | GRIS | At least one month before |
 | Milestones for the next 12 months, agreed with your supervisors, and a timeline for completing your thesis | GRIS | At least one month before |
-| PhD Program Learning Outcomes (PLO) assessment form, signed by your supervisor (a Business School requirement). The form is on the Business School's [Managing HDR students – Candidature](https://unsw.sharepoint.com/:u:/r/sites/business-research/SitePages/Managing-HDR-Students-Candidature.aspx?d=wd81f4a2a4cdc45079bc8fe3e6249f316&csf=1&web=1&e=P59ZBZ) SharePoint page (UNSW login required) | Give it to your panel chair. The chair or the PGRC uploads it to GRIS under Documents | Before the review |
+| [PhD Program Learning Outcomes (PLO) assessment form](https://unsw.sharepoint.com/sites/Connect/Teams/Research/Shared%20Documents/BUS%20PhD%20PLO%20form%20-%20FINAL%20310122.pdf) (UNSW login required), signed by your supervisor (a Business School requirement) | Give it to your panel chair. The chair or the PGRC uploads it to GRIS under Documents | Before the review |
 | Draft of the paper you are presenting | Email to all panel members; ideally also attached in GRIS | At least two weeks before |
 | Presentation material | Email to your supervisors and panel members | At least two days before |
 
