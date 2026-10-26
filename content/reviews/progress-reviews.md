@@ -37,7 +37,8 @@ Panel members cannot be anyone who has been on your supervisory team, academics 
 | Evidence of any required UNSW training | GRIS | At least one month before |
 | Milestones for the next 12 months, agreed with your supervisors, and a timeline for completing your thesis | GRIS | At least one month before |
 | Draft of the paper you are presenting | Email to all panel members; ideally also attached in GRIS | At least two weeks before |
-| Presentation material, with the PLO [assessment form](https://unsw.sharepoint.com/sites/Connect/Teams/Research/Shared%20Documents/BUS%20PhD%20PLO%20form%20-%20FINAL%20310122.pdf)\* attached | Email to your supervisors and panel members | At least two days before |
+| Presentation material | Email to your supervisors and panel members | At least two days before |
+| PhD Program Learning Outcomes (PLO) [assessment form](https://unsw.sharepoint.com/sites/Connect/Teams/Research/Shared%20Documents/BUS%20PhD%20PLO%20form%20-%20FINAL%20310122.pdf)\* | Attach to the email with your presentation material | At least two days before |
 
 If you miss the review or don't complete the GRIS form, you will receive a [show cause request](https://www.unsw.edu.au/content/dam/pdfs/governance/policy/hub/hdrshowcause.pdf). If you have questions about the show cause process, talk to the PGRC.
 
