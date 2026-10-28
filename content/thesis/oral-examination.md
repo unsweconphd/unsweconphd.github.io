@@ -28,15 +28,38 @@ If your PhD started earlier, your examination is written only, unless your exami
 | At least one week before the oral | The panel chair sends you and your primary supervisor the reports and the questions |
 | About eight weeks after your thesis went to the examiners | The oral |
 
-The examiners' reports set what is discussed. Before the oral the panel chair asks the examiners and your supervisors to clarify the issues the reports raise, and agrees with the panel how it will run. You are asked about the reports and the questions you have already seen, though the examiners can follow up on anything you do not answer fully.
+The examiners' reports set what is discussed. Before the oral the panel chair asks the examiners and your supervisors to clarify the issues the reports raise, and agrees with the panel how it will run. You are asked about the reports and the questions you have already seen, though the examiners can follow up on anything you do not answer fully. The panel chair also sends you an agenda for the oral, listing the questions.
 
 Read the reports with your supervisors, work out an answer to each question, and practise both the presentation and the questions. Your supervisors are responsible for making sure you are prepared. The Graduate Research School runs a workshop on oral examinations; see the [UNSW HDR Hub](https://unsw.sharepoint.com/sites/unswhdr) (UNSW login required).
 
 **If you are ill, or need an adjustment to your examination, contact the panel chair immediately.** The chair decides what adjustment is made.
 
+**You and your supervisors must not contact your examiners until the examination is over.** If contact happens, even by chance, tell the panel chair.
+
+## Your presentation
+
+Cover:
+
+- each chapter's research question, method and main result
+- what the thesis adds to existing work, and its main limitations
+- your own contribution, and your co-authors' contributions to any co-authored chapters (one slide)
+- any editorial assistance and use of AI: what you used, for what, and how you checked it (one slide)
+
+The panel must verify your contribution, your use of editorial assistance and AI, and that you understand your collaborators' contributions.
+
+## How the oral is assessed
+
+The examiners rate each of five criteria as outstanding, excellent, satisfactory, poor or unsatisfactory:
+
+- your detailed knowledge of the research
+- the originality of the thesis and its contribution to the field
+- how well you defend its methods and conclusions
+- your awareness of its limitations
+- how well you answer the questions
+
 ## On the day
 
-The oral takes one to two hours. It is usually held online, because your examiners are from outside UNSW and typically not in Sydney; in person and hybrid are both possible. The panel chair introduces you and explains how it will run. You present your research question, methods and findings, and explain what the thesis adds to existing work in the field. The examiners then work through their reports and questions, and settle what revisions you need to make. You leave while the panel drafts its report, then come back to hear a provisional recommendation.
+The oral takes one to two hours. It is usually held online, because your examiners are from outside UNSW and typically not in Sydney; in person and hybrid are both possible. The panel chair introduces you and explains how it will run. You give your presentation. The examiners then work through their reports and questions, and settle what revisions you need to make. You leave while the panel drafts its report, then come back to hear a provisional recommendation.
 
 The oral is recorded, to help the panel write its report. Only the panel chair and the Postgraduate Research Coordinator (PGRC) have access to the recording, and it is deleted once the Dean of Graduate Research confirms the outcome.
 
