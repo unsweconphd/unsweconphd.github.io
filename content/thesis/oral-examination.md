@@ -28,7 +28,7 @@ If your PhD started earlier, your examination is written only, unless your exami
 | At least one week before the oral | The panel chair sends you and your primary supervisor the reports and the questions |
 | About eight weeks after your thesis went to the examiners | The oral |
 
-The examiners' reports set what is discussed. Before the oral the panel chair asks the examiners and your supervisors to clarify the issues the reports raise, and agrees with the panel how it will run. You are asked about the reports and the questions you have already seen, though the examiners can follow up on anything you do not answer fully. The panel chair also sends you an agenda for the oral, listing the questions.
+The examiners' reports set what is discussed. Before the oral the panel chair asks the examiners and your supervisors to clarify the issues the reports raise, and agrees with the panel how it will run. You are asked about the reports and the questions you have already seen, though the examiners can follow up on anything you do not answer fully.
 
 Read the reports with your supervisors, work out an answer to each question, and practise both the presentation and the questions. Your supervisors are responsible for making sure you are prepared. The Graduate Research School runs a workshop on oral examinations; see the [UNSW HDR Hub](https://unsw.sharepoint.com/sites/unswhdr) (UNSW login required).
 
