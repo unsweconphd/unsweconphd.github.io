@@ -1,6 +1,6 @@
 ---
 title: "Thesis submission"
-reviewed: 2026-09-18
+reviewed: 2026-10-28
 eleventyNavigation:
   key: "Submission"
   parent: "Thesis"
@@ -14,9 +14,9 @@ redirectFrom:
 
 Lodge a **Notification of Intention to Submit** in [GRIS](https://gris.unsw.edu.au/login) at least two months before you plan to submit. UNSW starts arranging your examiners when you lodge it.
 
-The maximum length of a PhD is four years of full-time enrolment, counted from the day you started, so a Term 1 start falls due at the start of Term 1 four years later. Approved leave and part-time enrolment push the date out, so work from your own commencement date rather than counting terms. If you are going to run over, you need approved overtime enrolment, which takes a progress review and a completion plan, so raise it with the PGC early.
+The maximum length of a PhD is four years of full-time enrolment, counted from the day you started, so a Term 1 start falls due at the start of Term 1 four years later. Approved leave and part-time enrolment push the date out, so work from your own commencement date rather than counting terms. If you are going to run over, you need approved overtime enrolment, which takes a progress review and a completion plan, so raise it with the Postgraduate Research Coordinator (PGRC) early.
 
-**If you are at all uncertain about your submission timeline, contact the PGC.**
+**If you are at all uncertain about your submission timeline, contact the PGRC.**
 
 ## Your examiners are appointed before you submit
 

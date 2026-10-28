@@ -1,6 +1,6 @@
 ---
 title: "Using publications in your thesis"
-reviewed: 2026-09-18
+reviewed: 2026-10-28
 toc: true
 eleventyNavigation:
   key: "Using publications"
@@ -41,12 +41,12 @@ The difference between Categories 2 and 3 is whether you rewrite the paper as a 
 
 You may do this only if all of the following are true of that paper.
 
-- The research was done during **this** PhD. Work from an earlier degree does not count; if you started the paper during your MPDBS year, check with the PGC.
+- The research was done during **this** PhD. Work from an earlier degree does not count; if you started the paper during your MPDBS year, check with the Postgraduate Research Coordinator (PGRC).
 - You contributed **more than 50%** of the content and are the primary author. Exactly half is not enough.
 - You were responsible for planning, executing and preparing the work.
 - No contract, publisher agreement or data agreement prevents you including it.
 - You have it **in writing from every coauthor**, including any who is your supervisor, that they agree to the paper going into your thesis and that you contributed more than 50% of the work. An email is fine. Keep it.
-- Your supervisor and the PGC approve it.
+- Your supervisor and the PGRC approve it.
 - The paper appears **word for word**, in the author-accepted version: the final draft as accepted, before the publisher's copyediting.
 
 If you edit, expand or renumber the paper to fit the thesis, the chapter is Category 2 instead. You may match the thesis font and line spacing, and move tables and figures to where they read naturally.
@@ -95,7 +95,7 @@ coauthor did.] I have written permission from my coauthors to include this
 work in my thesis.
 ```
 
-If a paper was presented at a conference that publishes no proceedings, give the conference and the date. If these sentences do not describe your paper, ask the PGC what the chapter should say instead.
+If a paper was presented at a conference that publishes no proceedings, give the conference and the date. If these sentences do not describe your paper, ask the PGRC what the chapter should say instead.
 
 Changes a journal's copy editors made to a chapter you have published count as editorial assistance, and go in your acknowledgements along with any use of AI. See [thesis submission](/thesis/submission/).
 
@@ -105,4 +105,4 @@ Everyone completes the Inclusion of Publications Statement, including candidates
 
 At the oral examination the panel will ask you to account for your contribution to any paper used in place of a chapter, and for what your coauthors contributed.
 
-The Graduate Research School runs a seminar, *Using Publications in Your HDR Thesis*, with worked examples of all three categories. Slides are on the [UNSW HDR Hub](https://unsw.sharepoint.com/sites/unswhdr) (UNSW login required). The Business School has its own guidelines on including publications; ask the PGC for a copy.
+The Graduate Research School runs a seminar, *Using Publications in Your HDR Thesis*, with worked examples of all three categories. Slides are on the [UNSW HDR Hub](https://unsw.sharepoint.com/sites/unswhdr) (UNSW login required). The Business School has its own guidelines on including publications; ask the PGRC for a copy.
